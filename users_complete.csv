@@ -1,0 +1,1001 @@
+user_id,username,location,created_at,account_age_years,profile_url,public_repos,followers,primary_language
+1,mojombo,San Francisco,2007-10-20T05:24:19Z,18.91,https://github.com/mojombo,66,24814,Ruby
+2,defunkt,,2007-10-20T05:24:19Z,18.91,https://github.com/defunkt,107,22823,Ruby
+3,pjhyett,,2008-01-07T17:54:22Z,18.69,https://github.com/pjhyett,8,8445,Ruby
+4,wycats,"Portland, OR",2008-01-12T05:38:33Z,18.68,https://github.com/wycats,325,10343,Ruby
+5,ezmobius,In the NW,2008-01-12T07:51:46Z,18.68,https://github.com/ezmobius,22,631,Ruby
+6,ivey,"West Hartford, CT",2008-01-12T15:15:00Z,18.67,https://github.com/ivey,38,226,Ruby
+7,evanphx,"Los Angeles, CA",2008-01-12T16:46:24Z,18.67,https://github.com/evanphx,193,1777,Ruby
+17,vanpelt,San Francisco,2008-01-13T05:57:18Z,18.67,https://github.com/vanpelt,70,533,Ruby
+18,wayneeseguin,"Buffalo, NY",2008-01-13T06:02:21Z,18.67,https://github.com/wayneeseguin,116,814,Ruby
+19,brynary,New York City,2008-01-13T10:19:47Z,18.67,https://github.com/brynary,206,840,Ruby
+20,kevinclark,,2008-01-13T18:33:26Z,18.67,https://github.com/kevinclark,51,141,Python
+21,technoweenie,,2008-01-14T04:33:35Z,18.67,https://github.com/technoweenie,177,2765,Ruby
+22,macournoyer,"Montreal, QC, Canada",2008-01-14T10:49:35Z,18.67,https://github.com/macournoyer,77,1322,Ruby
+23,takeo,"Portland, OR",2008-01-14T11:25:49Z,18.67,https://github.com/takeo,22,130,JavaScript
+25,caged,Places,2008-01-15T04:47:24Z,18.67,https://github.com/caged,170,2423,JavaScript
+26,topfunky,"Seattle, USA",2008-01-15T05:40:05Z,18.67,https://github.com/topfunky,98,1539,Ruby
+27,anotherjesse,"Berkeley, CA",2008-01-15T07:49:30Z,18.67,https://github.com/anotherjesse,246,326,Python
+28,roland,Tirana,2008-01-15T08:12:51Z,18.67,https://github.com/roland,1,47,C#
+29,lukas,San Francisco,2008-01-15T12:50:02Z,18.67,https://github.com/lukas,61,737,Python
+30,fanvsfan,,2008-01-15T14:15:23Z,18.67,https://github.com/fanvsfan,0,45,
+31,tomtt,Amsterdam,2008-01-15T15:44:31Z,18.67,https://github.com/tomtt,91,94,Ruby
+32,railsjitsu,,2008-01-16T04:57:23Z,18.67,https://github.com/railsjitsu,0,37,
+34,nitay,New York,2008-01-18T14:09:11Z,18.66,https://github.com/nitay,12,69,Python
+35,kevwil,"Frederick, CO",2008-01-19T05:50:12Z,18.66,https://github.com/kevwil,47,84,Ruby
+36,KirinDave,"San Francisco, CA",2008-01-19T08:01:02Z,18.66,https://github.com/KirinDave,83,450,Clojure
+37,jamesgolick,New York,2008-01-19T22:52:30Z,18.66,https://github.com/jamesgolick,110,678,Ruby
+38,atmos,GMT +/- 8,2008-01-22T09:14:11Z,18.65,https://github.com/atmos,3,1418,CoffeeScript
+45,sethfitz,"Bend, OR",2008-01-24T04:40:22Z,18.64,https://github.com/sethfitz,339,661,JavaScript
+46,bmizerany,,2008-01-24T04:44:30Z,18.64,https://github.com/bmizerany,181,1546,Ruby
+47,jnewland,"Austin, TX",2008-01-25T02:28:12Z,18.64,https://github.com/jnewland,133,815,Ruby
+48,joshknowles,"Austin, TX",2008-01-25T21:30:42Z,18.64,https://github.com/joshknowles,14,159,Ruby
+49,hornbeck,"Lawton, OK",2008-01-25T21:49:23Z,18.64,https://github.com/hornbeck,8,107,Erlang
+50,jwhitmire,"Webster, NY",2008-01-25T22:07:48Z,18.64,https://github.com/jwhitmire,33,73,Ruby
+51,elbowdonkey,,2008-01-25T22:08:20Z,18.64,https://github.com/elbowdonkey,53,50,Ruby
+52,reinh,"Portland, OR",2008-01-25T22:16:29Z,18.64,https://github.com/reinh,208,224,Ruby
+53,knzai,"Oakland, CA",2008-01-25T22:33:10Z,18.64,https://github.com/knzai,43,95,Ruby
+68,bs,"San Fransico, CA",2008-01-27T01:46:29Z,18.64,https://github.com/bs,36,193,JavaScript
+69,rsanheim,"Madison, WI, NORTH AMERICA",2008-01-27T07:09:47Z,18.64,https://github.com/rsanheim,52,265,Ruby
+70,schacon,"Berlin, Germany",2008-01-27T17:19:28Z,18.63,https://github.com/schacon,241,14235,Ruby
+71,uggedal,"Oslo, Norway",2008-01-27T22:18:57Z,18.63,https://github.com/uggedal,47,215,Python
+72,bruce,"Vancouver, WA",2008-01-28T07:16:45Z,18.63,https://github.com/bruce,126,415,Ruby
+73,sam,"Dallas, TX",2008-01-28T19:01:26Z,18.63,https://github.com/sam,41,225,Scala
+74,mmower,"Berkshire, England",2008-01-28T19:47:50Z,18.63,https://github.com/mmower,85,90,Objective-C
+75,abhay,"San Francisco, CA",2008-01-28T21:08:23Z,18.63,https://github.com/abhay,50,206,Ruby
+76,rabble,"Pōneke, Aotearoa",2008-01-28T23:27:02Z,18.63,https://github.com/rabble,82,421,JavaScript
+77,benburkert,NYC,2008-01-28T23:44:14Z,18.63,https://github.com/benburkert,151,248,Ruby
+78,indirect,San Francisco,2008-01-29T07:59:27Z,18.63,https://github.com/indirect,274,1214,Ruby
+79,fearoffish,"Skipton, UK",2008-01-29T08:43:10Z,18.63,https://github.com/fearoffish,68,73,Ruby
+80,ry,California,2008-01-29T08:50:34Z,18.63,https://github.com/ry,63,33455,TypeScript
+81,engineyard,"San Francisco, CA",2008-01-29T09:51:30Z,18.63,https://github.com/engineyard,336,33,Ruby
+82,jsierles,"Andalucía, Spain",2008-01-29T11:10:25Z,18.63,https://github.com/jsierles,181,309,Ruby
+83,tweibley,Florida,2008-01-29T13:52:07Z,18.63,https://github.com/tweibley,20,67,Ruby
+84,peimei,"Palm Springs, CA",2008-01-29T15:44:11Z,18.63,https://github.com/peimei,5,29,Ruby
+85,brixen,"Portland, OR",2008-01-29T16:47:55Z,18.63,https://github.com/brixen,139,394,Ruby
+87,tmornini,San Francisco,2008-01-29T18:43:39Z,18.63,https://github.com/tmornini,17,69,Go
+88,outerim,"SLC, UT",2008-01-29T18:48:32Z,18.63,https://github.com/outerim,27,44,Ruby
+89,daksis,"San Francisco, CA, USA",2008-01-29T19:18:16Z,18.63,https://github.com/daksis,6,96,JavaScript
+90,sr,Europe,2008-01-29T20:37:53Z,18.63,https://github.com/sr,135,642,Ruby
+91,lifo,,2008-01-29T23:09:30Z,18.63,https://github.com/lifo,0,636,
+92,rsl,"Atlanta, GA",2008-01-29T23:13:36Z,18.63,https://github.com/rsl,41,88,Ruby
+93,imownbey,"San Francisco, CA",2008-01-29T23:13:44Z,18.63,https://github.com/imownbey,76,117,Ruby
+94,dylanegan,"Sydney, Australia",2008-01-29T23:15:18Z,18.63,https://github.com/dylanegan,55,142,Ruby
+95,jm,"Orlando, FL",2008-01-29T23:15:32Z,18.63,https://github.com/jm,137,555,Ruby
+100,kmarsh,"Perrysburg, OH",2008-01-29T23:48:24Z,18.63,https://github.com/kmarsh,62,92,Ruby
+101,jvantuyl,"Plumas County, California, USA",2008-01-30T01:11:50Z,18.63,https://github.com/jvantuyl,91,79,Elixir
+102,BrianTheCoder,"Santa Monica,CA",2008-01-30T02:22:32Z,18.63,https://github.com/BrianTheCoder,109,119,Ruby
+103,freeformz,"PDX Area, OR",2008-01-30T06:19:57Z,18.63,https://github.com/freeformz,175,259,Go
+104,hassox,Austin,2008-01-30T06:31:06Z,18.63,https://github.com/hassox,161,392,Ruby
+105,automatthew,,2008-01-30T19:00:58Z,18.63,https://github.com/automatthew,21,97,Ruby
+106,queso,"Cincinnati, Oh",2008-01-30T19:48:45Z,18.63,https://github.com/queso,95,377,JavaScript
+107,lancecarlson,"Ann Arbor, MI",2008-01-30T19:53:29Z,18.63,https://github.com/lancecarlson,142,160,Ruby
+108,drnic,"Brisbane, Australia",2008-01-30T23:19:18Z,18.63,https://github.com/drnic,694,1846,Ruby
+109,lukesutton,South Australia,2008-01-31T04:01:02Z,18.63,https://github.com/lukesutton,18,76,Swift
+110,danwrong,London,2008-01-31T08:51:31Z,18.63,https://github.com/danwrong,34,389,Ruby
+111,HamptonMakes,"New York, NY",2008-01-31T17:03:51Z,18.62,https://github.com/HamptonMakes,81,714,Ruby
+112,jfrost,,2008-01-31T22:14:27Z,18.62,https://github.com/jfrost,12,36,Go
+113,mattetti,"Los Angeles, CA",2008-01-31T22:56:31Z,18.62,https://github.com/mattetti,307,1132,Ruby
+114,ctennis,"Indiana, USA",2008-01-31T23:43:14Z,18.62,https://github.com/ctennis,10,45,HTML
+115,lawrencepit,,2008-01-31T23:57:16Z,18.62,https://github.com/lawrencepit,27,53,Ruby
+116,marcjeanson,Earth,2008-02-01T01:27:19Z,18.62,https://github.com/marcjeanson,31,68,Ruby
+117,grempe,"Virginia, US",2008-02-01T04:12:42Z,18.62,https://github.com/grempe,47,158,Ruby
+118,peterc,United Kingdom,2008-02-02T01:00:36Z,18.62,https://github.com/peterc,50,765,Ruby
+119,ministrycentered,"Carlsbad, CA",2008-02-02T03:50:26Z,18.62,https://github.com/ministrycentered,72,27,Ruby
+120,afarnham,"Houston, TX",2008-02-02T05:11:03Z,18.62,https://github.com/afarnham,48,57,Swift
+121,up_the_irons,Los Angeles,2008-02-02T10:59:51Z,18.62,https://github.com/up_the_irons,50,62,Ruby
+122,cristibalan,Everywhere,2008-02-02T11:29:45Z,18.62,https://github.com/cristibalan,24,123,Ruby
+123,heavysixer,Kansas City,2008-02-02T15:06:53Z,18.62,https://github.com/heavysixer,23,132,JavaScript
+124,brosner,"Denver, CO",2008-02-02T19:03:54Z,18.62,https://github.com/brosner,116,1044,Python
+125,danielmorrison,"Holland, MI",2008-02-02T19:46:35Z,18.62,https://github.com/danielmorrison,36,148,Ruby
+126,danielharan,"Montreal, QC, Canada",2008-02-02T21:42:21Z,18.62,https://github.com/danielharan,33,121,Ruby
+127,kvnsmth,,2008-02-02T22:00:03Z,18.62,https://github.com/kvnsmth,32,152,Objective-C
+128,collectiveidea,United States of America,2008-02-02T22:34:46Z,18.62,https://github.com/collectiveidea,184,90,Ruby
+129,canadaduane,"Salt Lake City, UT, USA",2008-02-02T23:25:39Z,18.62,https://github.com/canadaduane,263,240,JavaScript
+130,corasaurus-hex,"Milwaukee, WI",2008-02-03T04:20:22Z,18.62,https://github.com/corasaurus-hex,53,141,Ruby
+131,dstrelau,"Minneapolis, MN",2008-02-03T14:59:12Z,18.62,https://github.com/dstrelau,51,101,Ruby
+132,sunny,"Paris, France",2008-02-03T15:43:43Z,18.61,https://github.com/sunny,250,393,Ruby
+133,dkubb,"Agassiz, BC, Canada",2008-02-03T20:40:13Z,18.61,https://github.com/dkubb,55,582,Ruby
+134,jnicklas,"Gothenburg, Sweden",2008-02-03T20:43:50Z,18.61,https://github.com/jnicklas,151,884,Ruby
+135,richcollins,San Francisco,2008-02-03T21:11:25Z,18.61,https://github.com/richcollins,32,79,JavaScript
+136,simonjefford,"Oxford, UK",2008-02-03T21:35:34Z,18.61,https://github.com/simonjefford,90,48,Ruby
+1,mojombo,San Francisco,2007-10-20T05:24:19Z,18.91,https://github.com/mojombo,66,24814,Ruby
+2,defunkt,,2007-10-20T05:24:19Z,18.91,https://github.com/defunkt,107,22823,Ruby
+3,pjhyett,,2008-01-07T17:54:22Z,18.69,https://github.com/pjhyett,8,8445,Ruby
+4,wycats,"Portland, OR",2008-01-12T05:38:33Z,18.68,https://github.com/wycats,325,10343,Ruby
+5,ezmobius,In the NW,2008-01-12T07:51:46Z,18.68,https://github.com/ezmobius,22,631,Ruby
+6,ivey,"West Hartford, CT",2008-01-12T15:15:00Z,18.68,https://github.com/ivey,38,226,Ruby
+7,evanphx,"Los Angeles, CA",2008-01-12T16:46:24Z,18.67,https://github.com/evanphx,193,1777,Ruby
+17,vanpelt,San Francisco,2008-01-13T05:57:18Z,18.67,https://github.com/vanpelt,70,533,Ruby
+18,wayneeseguin,"Buffalo, NY",2008-01-13T06:02:21Z,18.67,https://github.com/wayneeseguin,116,814,Ruby
+19,brynary,New York City,2008-01-13T10:19:47Z,18.67,https://github.com/brynary,206,840,Ruby
+20,kevinclark,,2008-01-13T18:33:26Z,18.67,https://github.com/kevinclark,51,141,Python
+21,technoweenie,,2008-01-14T04:33:35Z,18.67,https://github.com/technoweenie,177,2765,Ruby
+22,macournoyer,"Montreal, QC, Canada",2008-01-14T10:49:35Z,18.67,https://github.com/macournoyer,77,1322,Ruby
+23,takeo,"Portland, OR",2008-01-14T11:25:49Z,18.67,https://github.com/takeo,22,130,JavaScript
+25,caged,Places,2008-01-15T04:47:24Z,18.67,https://github.com/caged,170,2423,JavaScript
+26,topfunky,"Seattle, USA",2008-01-15T05:40:05Z,18.67,https://github.com/topfunky,98,1539,Ruby
+27,anotherjesse,"Berkeley, CA",2008-01-15T07:49:30Z,18.67,https://github.com/anotherjesse,246,326,Python
+28,roland,Tirana,2008-01-15T08:12:51Z,18.67,https://github.com/roland,1,47,C#
+29,lukas,San Francisco,2008-01-15T12:50:02Z,18.67,https://github.com/lukas,61,737,Python
+30,fanvsfan,,2008-01-15T14:15:23Z,18.67,https://github.com/fanvsfan,0,45,
+31,tomtt,Amsterdam,2008-01-15T15:44:31Z,18.67,https://github.com/tomtt,91,94,Ruby
+32,railsjitsu,,2008-01-16T04:57:23Z,18.67,https://github.com/railsjitsu,0,37,
+34,nitay,New York,2008-01-18T14:09:11Z,18.66,https://github.com/nitay,12,69,Python
+35,kevwil,"Frederick, CO",2008-01-19T05:50:12Z,18.66,https://github.com/kevwil,47,84,Ruby
+36,KirinDave,"San Francisco, CA",2008-01-19T08:01:02Z,18.66,https://github.com/KirinDave,83,450,Clojure
+37,jamesgolick,New York,2008-01-19T22:52:30Z,18.66,https://github.com/jamesgolick,110,678,Ruby
+38,atmos,GMT +/- 8,2008-01-22T09:14:11Z,18.65,https://github.com/atmos,3,1418,CoffeeScript
+45,sethfitz,"Bend, OR",2008-01-24T04:40:22Z,18.64,https://github.com/sethfitz,339,661,JavaScript
+46,bmizerany,,2008-01-24T04:44:30Z,18.64,https://github.com/bmizerany,181,1546,Ruby
+47,jnewland,"Austin, TX",2008-01-25T02:28:12Z,18.64,https://github.com/jnewland,133,815,Ruby
+48,joshknowles,"Austin, TX",2008-01-25T21:30:42Z,18.64,https://github.com/joshknowles,14,159,Ruby
+49,hornbeck,"Lawton, OK",2008-01-25T21:49:23Z,18.64,https://github.com/hornbeck,8,107,Erlang
+50,jwhitmire,"Webster, NY",2008-01-25T22:07:48Z,18.64,https://github.com/jwhitmire,33,73,Ruby
+51,elbowdonkey,,2008-01-25T22:08:20Z,18.64,https://github.com/elbowdonkey,53,50,Ruby
+52,reinh,"Portland, OR",2008-01-25T22:16:29Z,18.64,https://github.com/reinh,208,224,Ruby
+53,knzai,"Oakland, CA",2008-01-25T22:33:10Z,18.64,https://github.com/knzai,43,95,Ruby
+68,bs,"San Fransico, CA",2008-01-27T01:46:29Z,18.64,https://github.com/bs,36,193,JavaScript
+69,rsanheim,"Madison, WI, NORTH AMERICA",2008-01-27T07:09:47Z,18.64,https://github.com/rsanheim,52,265,Ruby
+70,schacon,"Berlin, Germany",2008-01-27T17:19:28Z,18.63,https://github.com/schacon,241,14235,Ruby
+71,uggedal,"Oslo, Norway",2008-01-27T22:18:57Z,18.63,https://github.com/uggedal,47,215,Python
+72,bruce,"Vancouver, WA",2008-01-28T07:16:45Z,18.63,https://github.com/bruce,126,415,Ruby
+73,sam,"Dallas, TX",2008-01-28T19:01:26Z,18.63,https://github.com/sam,41,225,Scala
+74,mmower,"Berkshire, England",2008-01-28T19:47:50Z,18.63,https://github.com/mmower,85,90,Objective-C
+75,abhay,"San Francisco, CA",2008-01-28T21:08:23Z,18.63,https://github.com/abhay,50,206,Ruby
+76,rabble,"Pōneke, Aotearoa",2008-01-28T23:27:02Z,18.63,https://github.com/rabble,82,421,JavaScript
+77,benburkert,NYC,2008-01-28T23:44:14Z,18.63,https://github.com/benburkert,151,248,Ruby
+78,indirect,San Francisco,2008-01-29T07:59:27Z,18.63,https://github.com/indirect,274,1214,Ruby
+79,fearoffish,"Skipton, UK",2008-01-29T08:43:10Z,18.63,https://github.com/fearoffish,68,73,Ruby
+80,ry,California,2008-01-29T08:50:34Z,18.63,https://github.com/ry,63,33455,TypeScript
+81,engineyard,"San Francisco, CA",2008-01-29T09:51:30Z,18.63,https://github.com/engineyard,336,33,Ruby
+82,jsierles,"Andalucía, Spain",2008-01-29T11:10:25Z,18.63,https://github.com/jsierles,181,309,Ruby
+83,tweibley,Florida,2008-01-29T13:52:07Z,18.63,https://github.com/tweibley,20,67,Ruby
+84,peimei,"Palm Springs, CA",2008-01-29T15:44:11Z,18.63,https://github.com/peimei,5,29,Ruby
+85,brixen,"Portland, OR",2008-01-29T16:47:55Z,18.63,https://github.com/brixen,139,394,Ruby
+87,tmornini,San Francisco,2008-01-29T18:43:39Z,18.63,https://github.com/tmornini,17,69,Go
+88,outerim,"SLC, UT",2008-01-29T18:48:32Z,18.63,https://github.com/outerim,27,44,Ruby
+89,daksis,"San Francisco, CA, USA",2008-01-29T19:18:16Z,18.63,https://github.com/daksis,6,96,JavaScript
+90,sr,Europe,2008-01-29T20:37:53Z,18.63,https://github.com/sr,135,642,Ruby
+91,lifo,,2008-01-29T23:09:30Z,18.63,https://github.com/lifo,0,636,
+92,rsl,"Atlanta, GA",2008-01-29T23:13:36Z,18.63,https://github.com/rsl,41,88,Ruby
+93,imownbey,"San Francisco, CA",2008-01-29T23:13:44Z,18.63,https://github.com/imownbey,76,117,Ruby
+94,dylanegan,"Sydney, Australia",2008-01-29T23:15:18Z,18.63,https://github.com/dylanegan,55,142,Ruby
+95,jm,"Orlando, FL",2008-01-29T23:15:32Z,18.63,https://github.com/jm,137,555,Ruby
+100,kmarsh,"Perrysburg, OH",2008-01-29T23:48:24Z,18.63,https://github.com/kmarsh,62,92,Ruby
+101,jvantuyl,"Plumas County, California, USA",2008-01-30T01:11:50Z,18.63,https://github.com/jvantuyl,91,79,Elixir
+102,BrianTheCoder,"Santa Monica,CA",2008-01-30T02:22:32Z,18.63,https://github.com/BrianTheCoder,109,119,Ruby
+103,freeformz,"PDX Area, OR",2008-01-30T06:19:57Z,18.63,https://github.com/freeformz,175,259,Go
+104,hassox,Austin,2008-01-30T06:31:06Z,18.63,https://github.com/hassox,161,392,Ruby
+105,automatthew,,2008-01-30T19:00:58Z,18.63,https://github.com/automatthew,21,97,Ruby
+106,queso,"Cincinnati, Oh",2008-01-30T19:48:45Z,18.63,https://github.com/queso,95,377,JavaScript
+107,lancecarlson,"Ann Arbor, MI",2008-01-30T19:53:29Z,18.63,https://github.com/lancecarlson,142,160,Ruby
+108,drnic,"Brisbane, Australia",2008-01-30T23:19:18Z,18.63,https://github.com/drnic,694,1846,Ruby
+109,lukesutton,South Australia,2008-01-31T04:01:02Z,18.63,https://github.com/lukesutton,18,76,Swift
+110,danwrong,London,2008-01-31T08:51:31Z,18.63,https://github.com/danwrong,34,389,Ruby
+111,HamptonMakes,"New York, NY",2008-01-31T17:03:51Z,18.62,https://github.com/HamptonMakes,81,714,Ruby
+112,jfrost,,2008-01-31T22:14:27Z,18.62,https://github.com/jfrost,12,36,Go
+113,mattetti,"Los Angeles, CA",2008-01-31T22:56:31Z,18.62,https://github.com/mattetti,307,1132,Ruby
+114,ctennis,"Indiana, USA",2008-01-31T23:43:14Z,18.62,https://github.com/ctennis,10,45,HTML
+115,lawrencepit,,2008-01-31T23:57:16Z,18.62,https://github.com/lawrencepit,27,53,Ruby
+116,marcjeanson,Earth,2008-02-01T01:27:19Z,18.62,https://github.com/marcjeanson,31,68,Ruby
+117,grempe,"Virginia, US",2008-02-01T04:12:42Z,18.62,https://github.com/grempe,47,158,Ruby
+118,peterc,United Kingdom,2008-02-02T01:00:36Z,18.62,https://github.com/peterc,50,765,Ruby
+119,ministrycentered,"Carlsbad, CA",2008-02-02T03:50:26Z,18.62,https://github.com/ministrycentered,72,27,Ruby
+120,afarnham,"Houston, TX",2008-02-02T05:11:03Z,18.62,https://github.com/afarnham,48,57,Swift
+121,up_the_irons,Los Angeles,2008-02-02T10:59:51Z,18.62,https://github.com/up_the_irons,50,62,Ruby
+122,cristibalan,Everywhere,2008-02-02T11:29:45Z,18.62,https://github.com/cristibalan,24,123,Ruby
+123,heavysixer,Kansas City,2008-02-02T15:06:53Z,18.62,https://github.com/heavysixer,23,132,JavaScript
+124,brosner,"Denver, CO",2008-02-02T19:03:54Z,18.62,https://github.com/brosner,116,1044,Python
+125,danielmorrison,"Holland, MI",2008-02-02T19:46:35Z,18.62,https://github.com/danielmorrison,36,148,Ruby
+126,danielharan,"Montreal, QC, Canada",2008-02-02T21:42:21Z,18.62,https://github.com/danielharan,33,121,Ruby
+127,kvnsmth,,2008-02-02T22:00:03Z,18.62,https://github.com/kvnsmth,32,152,Objective-C
+128,collectiveidea,United States of America,2008-02-02T22:34:46Z,18.62,https://github.com/collectiveidea,184,90,Ruby
+129,canadaduane,"Salt Lake City, UT, USA",2008-02-02T23:25:39Z,18.62,https://github.com/canadaduane,263,240,JavaScript
+130,corasaurus-hex,"Milwaukee, WI",2008-02-03T04:20:22Z,18.62,https://github.com/corasaurus-hex,53,141,Ruby
+131,dstrelau,"Minneapolis, MN",2008-02-03T14:59:12Z,18.62,https://github.com/dstrelau,51,101,Ruby
+132,sunny,"Paris, France",2008-02-03T15:43:43Z,18.62,https://github.com/sunny,250,393,Ruby
+133,dkubb,"Agassiz, BC, Canada",2008-02-03T20:40:13Z,18.61,https://github.com/dkubb,55,582,Ruby
+134,jnicklas,"Gothenburg, Sweden",2008-02-03T20:43:50Z,18.61,https://github.com/jnicklas,151,884,Ruby
+135,richcollins,San Francisco,2008-02-03T21:11:25Z,18.61,https://github.com/richcollins,32,79,JavaScript
+136,simonjefford,"Oxford, UK",2008-02-03T21:35:34Z,18.61,https://github.com/simonjefford,90,48,Ruby
+1,mojombo,San Francisco,2007-10-20T05:24:19Z,18.91,https://github.com/mojombo,66,24814,Ruby
+2,defunkt,,2007-10-20T05:24:19Z,18.91,https://github.com/defunkt,107,22823,Ruby
+3,pjhyett,,2008-01-07T17:54:22Z,18.69,https://github.com/pjhyett,8,8445,Ruby
+4,wycats,"Portland, OR",2008-01-12T05:38:33Z,18.68,https://github.com/wycats,325,10343,Ruby
+5,ezmobius,In the NW,2008-01-12T07:51:46Z,18.68,https://github.com/ezmobius,22,631,Ruby
+6,ivey,"West Hartford, CT",2008-01-12T15:15:00Z,18.68,https://github.com/ivey,38,226,Ruby
+7,evanphx,"Los Angeles, CA",2008-01-12T16:46:24Z,18.67,https://github.com/evanphx,193,1777,Ruby
+17,vanpelt,San Francisco,2008-01-13T05:57:18Z,18.67,https://github.com/vanpelt,70,533,Ruby
+18,wayneeseguin,"Buffalo, NY",2008-01-13T06:02:21Z,18.67,https://github.com/wayneeseguin,116,814,Ruby
+19,brynary,New York City,2008-01-13T10:19:47Z,18.67,https://github.com/brynary,206,840,Ruby
+20,kevinclark,,2008-01-13T18:33:26Z,18.67,https://github.com/kevinclark,51,141,Python
+21,technoweenie,,2008-01-14T04:33:35Z,18.67,https://github.com/technoweenie,177,2765,Ruby
+22,macournoyer,"Montreal, QC, Canada",2008-01-14T10:49:35Z,18.67,https://github.com/macournoyer,77,1322,Ruby
+23,takeo,"Portland, OR",2008-01-14T11:25:49Z,18.67,https://github.com/takeo,22,130,JavaScript
+25,caged,Places,2008-01-15T04:47:24Z,18.67,https://github.com/caged,170,2423,JavaScript
+26,topfunky,"Seattle, USA",2008-01-15T05:40:05Z,18.67,https://github.com/topfunky,98,1539,Ruby
+27,anotherjesse,"Berkeley, CA",2008-01-15T07:49:30Z,18.67,https://github.com/anotherjesse,246,326,Python
+28,roland,Tirana,2008-01-15T08:12:51Z,18.67,https://github.com/roland,1,47,C#
+29,lukas,San Francisco,2008-01-15T12:50:02Z,18.67,https://github.com/lukas,61,737,Python
+30,fanvsfan,,2008-01-15T14:15:23Z,18.67,https://github.com/fanvsfan,0,45,
+31,tomtt,Amsterdam,2008-01-15T15:44:31Z,18.67,https://github.com/tomtt,91,94,Ruby
+32,railsjitsu,,2008-01-16T04:57:23Z,18.67,https://github.com/railsjitsu,0,37,
+34,nitay,New York,2008-01-18T14:09:11Z,18.66,https://github.com/nitay,12,69,Python
+35,kevwil,"Frederick, CO",2008-01-19T05:50:12Z,18.66,https://github.com/kevwil,47,85,Ruby
+36,KirinDave,"San Francisco, CA",2008-01-19T08:01:02Z,18.66,https://github.com/KirinDave,83,450,Clojure
+37,jamesgolick,New York,2008-01-19T22:52:30Z,18.66,https://github.com/jamesgolick,110,678,Ruby
+38,atmos,GMT +/- 8,2008-01-22T09:14:11Z,18.65,https://github.com/atmos,3,1418,CoffeeScript
+45,sethfitz,"Bend, OR",2008-01-24T04:40:22Z,18.64,https://github.com/sethfitz,339,661,JavaScript
+46,bmizerany,,2008-01-24T04:44:30Z,18.64,https://github.com/bmizerany,181,1547,Ruby
+47,jnewland,"Austin, TX",2008-01-25T02:28:12Z,18.64,https://github.com/jnewland,133,815,Ruby
+48,joshknowles,"Austin, TX",2008-01-25T21:30:42Z,18.64,https://github.com/joshknowles,14,159,Ruby
+49,hornbeck,"Lawton, OK",2008-01-25T21:49:23Z,18.64,https://github.com/hornbeck,8,107,Erlang
+50,jwhitmire,"Webster, NY",2008-01-25T22:07:48Z,18.64,https://github.com/jwhitmire,33,73,Ruby
+51,elbowdonkey,,2008-01-25T22:08:20Z,18.64,https://github.com/elbowdonkey,53,50,Ruby
+52,reinh,"Portland, OR",2008-01-25T22:16:29Z,18.64,https://github.com/reinh,208,224,Ruby
+53,knzai,"Oakland, CA",2008-01-25T22:33:10Z,18.64,https://github.com/knzai,43,95,Ruby
+68,bs,"San Fransico, CA",2008-01-27T01:46:29Z,18.64,https://github.com/bs,36,194,JavaScript
+69,rsanheim,"Madison, WI, NORTH AMERICA",2008-01-27T07:09:47Z,18.64,https://github.com/rsanheim,52,265,Ruby
+70,schacon,"Berlin, Germany",2008-01-27T17:19:28Z,18.63,https://github.com/schacon,241,14236,Ruby
+71,uggedal,"Oslo, Norway",2008-01-27T22:18:57Z,18.63,https://github.com/uggedal,47,215,Python
+72,bruce,"Vancouver, WA",2008-01-28T07:16:45Z,18.63,https://github.com/bruce,126,415,Ruby
+73,sam,"Dallas, TX",2008-01-28T19:01:26Z,18.63,https://github.com/sam,41,225,Scala
+74,mmower,"Berkshire, England",2008-01-28T19:47:50Z,18.63,https://github.com/mmower,85,90,Objective-C
+75,abhay,"San Francisco, CA",2008-01-28T21:08:23Z,18.63,https://github.com/abhay,50,206,Ruby
+76,rabble,"Pōneke, Aotearoa",2008-01-28T23:27:02Z,18.63,https://github.com/rabble,82,421,JavaScript
+77,benburkert,NYC,2008-01-28T23:44:14Z,18.63,https://github.com/benburkert,151,248,Ruby
+78,indirect,San Francisco,2008-01-29T07:59:27Z,18.63,https://github.com/indirect,274,1214,Ruby
+79,fearoffish,"Skipton, UK",2008-01-29T08:43:10Z,18.63,https://github.com/fearoffish,68,74,Ruby
+80,ry,California,2008-01-29T08:50:34Z,18.63,https://github.com/ry,63,33455,TypeScript
+81,engineyard,"San Francisco, CA",2008-01-29T09:51:30Z,18.63,https://github.com/engineyard,336,33,Ruby
+82,jsierles,"Andalucía, Spain",2008-01-29T11:10:25Z,18.63,https://github.com/jsierles,181,309,Ruby
+83,tweibley,Florida,2008-01-29T13:52:07Z,18.63,https://github.com/tweibley,20,67,Ruby
+84,peimei,"Palm Springs, CA",2008-01-29T15:44:11Z,18.63,https://github.com/peimei,5,29,Ruby
+85,brixen,"Portland, OR",2008-01-29T16:47:55Z,18.63,https://github.com/brixen,139,394,Ruby
+87,tmornini,San Francisco,2008-01-29T18:43:39Z,18.63,https://github.com/tmornini,17,69,Go
+88,outerim,"SLC, UT",2008-01-29T18:48:32Z,18.63,https://github.com/outerim,27,44,Ruby
+89,daksis,"San Francisco, CA, USA",2008-01-29T19:18:16Z,18.63,https://github.com/daksis,6,97,JavaScript
+90,sr,Europe,2008-01-29T20:37:53Z,18.63,https://github.com/sr,135,642,Ruby
+91,lifo,,2008-01-29T23:09:30Z,18.63,https://github.com/lifo,0,637,
+92,rsl,"Atlanta, GA",2008-01-29T23:13:36Z,18.63,https://github.com/rsl,41,89,Ruby
+93,imownbey,"San Francisco, CA",2008-01-29T23:13:44Z,18.63,https://github.com/imownbey,76,117,Ruby
+94,dylanegan,"Sydney, Australia",2008-01-29T23:15:18Z,18.63,https://github.com/dylanegan,55,142,Ruby
+95,jm,"Orlando, FL",2008-01-29T23:15:32Z,18.63,https://github.com/jm,137,555,Ruby
+100,kmarsh,"Perrysburg, OH",2008-01-29T23:48:24Z,18.63,https://github.com/kmarsh,62,92,Ruby
+101,jvantuyl,"Plumas County, California, USA",2008-01-30T01:11:50Z,18.63,https://github.com/jvantuyl,91,79,Elixir
+102,BrianTheCoder,"Santa Monica,CA",2008-01-30T02:22:32Z,18.63,https://github.com/BrianTheCoder,109,120,Ruby
+103,freeformz,"PDX Area, OR",2008-01-30T06:19:57Z,18.63,https://github.com/freeformz,175,259,Go
+104,hassox,Austin,2008-01-30T06:31:06Z,18.63,https://github.com/hassox,161,392,Ruby
+105,automatthew,,2008-01-30T19:00:58Z,18.63,https://github.com/automatthew,21,97,Ruby
+106,queso,"Cincinnati, Oh",2008-01-30T19:48:45Z,18.63,https://github.com/queso,95,377,JavaScript
+107,lancecarlson,"Ann Arbor, MI",2008-01-30T19:53:29Z,18.63,https://github.com/lancecarlson,142,160,Ruby
+108,drnic,"Brisbane, Australia",2008-01-30T23:19:18Z,18.63,https://github.com/drnic,694,1846,Ruby
+109,lukesutton,South Australia,2008-01-31T04:01:02Z,18.63,https://github.com/lukesutton,18,76,Swift
+110,danwrong,London,2008-01-31T08:51:31Z,18.63,https://github.com/danwrong,34,389,Ruby
+111,HamptonMakes,"New York, NY",2008-01-31T17:03:51Z,18.62,https://github.com/HamptonMakes,81,714,Ruby
+112,jfrost,,2008-01-31T22:14:27Z,18.62,https://github.com/jfrost,12,36,Go
+113,mattetti,"Los Angeles, CA",2008-01-31T22:56:31Z,18.62,https://github.com/mattetti,307,1132,Ruby
+114,ctennis,"Indiana, USA",2008-01-31T23:43:14Z,18.62,https://github.com/ctennis,10,45,HTML
+115,lawrencepit,,2008-01-31T23:57:16Z,18.62,https://github.com/lawrencepit,27,55,Ruby
+116,marcjeanson,Earth,2008-02-01T01:27:19Z,18.62,https://github.com/marcjeanson,31,68,Ruby
+117,grempe,"Virginia, US",2008-02-01T04:12:42Z,18.62,https://github.com/grempe,47,158,Ruby
+118,peterc,United Kingdom,2008-02-02T01:00:36Z,18.62,https://github.com/peterc,50,767,Ruby
+119,ministrycentered,"Carlsbad, CA",2008-02-02T03:50:26Z,18.62,https://github.com/ministrycentered,72,27,Ruby
+120,afarnham,"Houston, TX",2008-02-02T05:11:03Z,18.62,https://github.com/afarnham,48,57,Swift
+121,up_the_irons,Los Angeles,2008-02-02T10:59:51Z,18.62,https://github.com/up_the_irons,50,62,Ruby
+122,cristibalan,Everywhere,2008-02-02T11:29:45Z,18.62,https://github.com/cristibalan,24,124,Ruby
+123,heavysixer,Kansas City,2008-02-02T15:06:53Z,18.62,https://github.com/heavysixer,23,132,JavaScript
+124,brosner,"Denver, CO",2008-02-02T19:03:54Z,18.62,https://github.com/brosner,116,1044,Python
+125,danielmorrison,"Holland, MI",2008-02-02T19:46:35Z,18.62,https://github.com/danielmorrison,36,148,Ruby
+126,danielharan,"Montreal, QC, Canada",2008-02-02T21:42:21Z,18.62,https://github.com/danielharan,33,121,Ruby
+127,kvnsmth,,2008-02-02T22:00:03Z,18.62,https://github.com/kvnsmth,32,152,Objective-C
+128,collectiveidea,United States of America,2008-02-02T22:34:46Z,18.62,https://github.com/collectiveidea,184,90,Ruby
+129,canadaduane,"Salt Lake City, UT, USA",2008-02-02T23:25:39Z,18.62,https://github.com/canadaduane,263,240,JavaScript
+130,corasaurus-hex,"Milwaukee, WI",2008-02-03T04:20:22Z,18.62,https://github.com/corasaurus-hex,53,141,Ruby
+131,dstrelau,"Minneapolis, MN",2008-02-03T14:59:12Z,18.62,https://github.com/dstrelau,51,103,Ruby
+132,sunny,"Paris, France",2008-02-03T15:43:43Z,18.62,https://github.com/sunny,250,393,Ruby
+133,dkubb,"Agassiz, BC, Canada",2008-02-03T20:40:13Z,18.61,https://github.com/dkubb,55,582,Ruby
+134,jnicklas,"Gothenburg, Sweden",2008-02-03T20:43:50Z,18.61,https://github.com/jnicklas,151,884,Ruby
+135,richcollins,San Francisco,2008-02-03T21:11:25Z,18.61,https://github.com/richcollins,32,79,JavaScript
+136,simonjefford,"Oxford, UK",2008-02-03T21:35:34Z,18.61,https://github.com/simonjefford,90,48,Ruby
+1,mojombo,San Francisco,2007-10-20T05:24:19Z,18.91,https://github.com/mojombo,66,24814,Ruby
+2,defunkt,,2007-10-20T05:24:19Z,18.91,https://github.com/defunkt,107,22823,Ruby
+3,pjhyett,,2008-01-07T17:54:22Z,18.69,https://github.com/pjhyett,8,8445,Ruby
+4,wycats,"Portland, OR",2008-01-12T05:38:33Z,18.68,https://github.com/wycats,325,10343,Ruby
+5,ezmobius,In the NW,2008-01-12T07:51:46Z,18.68,https://github.com/ezmobius,22,631,Ruby
+6,ivey,"West Hartford, CT",2008-01-12T15:15:00Z,18.68,https://github.com/ivey,38,226,Ruby
+7,evanphx,"Los Angeles, CA",2008-01-12T16:46:24Z,18.67,https://github.com/evanphx,193,1777,Ruby
+17,vanpelt,San Francisco,2008-01-13T05:57:18Z,18.67,https://github.com/vanpelt,70,533,Ruby
+18,wayneeseguin,"Buffalo, NY",2008-01-13T06:02:21Z,18.67,https://github.com/wayneeseguin,116,814,Ruby
+19,brynary,New York City,2008-01-13T10:19:47Z,18.67,https://github.com/brynary,206,840,Ruby
+20,kevinclark,,2008-01-13T18:33:26Z,18.67,https://github.com/kevinclark,51,141,Python
+21,technoweenie,,2008-01-14T04:33:35Z,18.67,https://github.com/technoweenie,177,2765,Ruby
+22,macournoyer,"Montreal, QC, Canada",2008-01-14T10:49:35Z,18.67,https://github.com/macournoyer,77,1324,Ruby
+23,takeo,"Portland, OR",2008-01-14T11:25:49Z,18.67,https://github.com/takeo,22,132,JavaScript
+25,caged,Places,2008-01-15T04:47:24Z,18.67,https://github.com/caged,170,2423,JavaScript
+26,topfunky,"Seattle, USA",2008-01-15T05:40:05Z,18.67,https://github.com/topfunky,98,1539,Ruby
+27,anotherjesse,"Berkeley, CA",2008-01-15T07:49:30Z,18.67,https://github.com/anotherjesse,246,326,Python
+28,roland,Tirana,2008-01-15T08:12:51Z,18.67,https://github.com/roland,1,47,C#
+29,lukas,San Francisco,2008-01-15T12:50:02Z,18.67,https://github.com/lukas,61,737,Python
+30,fanvsfan,,2008-01-15T14:15:23Z,18.67,https://github.com/fanvsfan,0,45,
+31,tomtt,Amsterdam,2008-01-15T15:44:31Z,18.67,https://github.com/tomtt,91,94,Ruby
+32,railsjitsu,,2008-01-16T04:57:23Z,18.67,https://github.com/railsjitsu,0,37,
+34,nitay,New York,2008-01-18T14:09:11Z,18.66,https://github.com/nitay,12,69,Python
+35,kevwil,"Frederick, CO",2008-01-19T05:50:12Z,18.66,https://github.com/kevwil,47,86,Ruby
+36,KirinDave,"San Francisco, CA",2008-01-19T08:01:02Z,18.66,https://github.com/KirinDave,83,450,Clojure
+37,jamesgolick,New York,2008-01-19T22:52:30Z,18.66,https://github.com/jamesgolick,110,678,Ruby
+38,atmos,GMT +/- 8,2008-01-22T09:14:11Z,18.65,https://github.com/atmos,3,1418,CoffeeScript
+45,sethfitz,"Bend, OR",2008-01-24T04:40:22Z,18.64,https://github.com/sethfitz,339,661,JavaScript
+46,bmizerany,,2008-01-24T04:44:30Z,18.64,https://github.com/bmizerany,181,1548,Ruby
+47,jnewland,"Austin, TX",2008-01-25T02:28:12Z,18.64,https://github.com/jnewland,133,815,Ruby
+48,joshknowles,"Austin, TX",2008-01-25T21:30:42Z,18.64,https://github.com/joshknowles,14,159,Ruby
+49,hornbeck,"Lawton, OK",2008-01-25T21:49:23Z,18.64,https://github.com/hornbeck,8,107,Erlang
+50,jwhitmire,"Webster, NY",2008-01-25T22:07:48Z,18.64,https://github.com/jwhitmire,33,73,Ruby
+51,elbowdonkey,,2008-01-25T22:08:20Z,18.64,https://github.com/elbowdonkey,53,50,Ruby
+52,reinh,"Portland, OR",2008-01-25T22:16:29Z,18.64,https://github.com/reinh,208,224,Ruby
+53,knzai,"Oakland, CA",2008-01-25T22:33:10Z,18.64,https://github.com/knzai,43,95,Ruby
+68,bs,"San Fransico, CA",2008-01-27T01:46:29Z,18.64,https://github.com/bs,36,195,JavaScript
+69,rsanheim,"Madison, WI, NORTH AMERICA",2008-01-27T07:09:47Z,18.64,https://github.com/rsanheim,52,265,Ruby
+70,schacon,"Berlin, Germany",2008-01-27T17:19:28Z,18.63,https://github.com/schacon,241,14237,Ruby
+71,uggedal,"Oslo, Norway",2008-01-27T22:18:57Z,18.63,https://github.com/uggedal,47,215,Python
+72,bruce,"Vancouver, WA",2008-01-28T07:16:45Z,18.63,https://github.com/bruce,126,415,Ruby
+73,sam,"Dallas, TX",2008-01-28T19:01:26Z,18.63,https://github.com/sam,41,225,Scala
+74,mmower,"Berkshire, England",2008-01-28T19:47:50Z,18.63,https://github.com/mmower,85,90,Objective-C
+75,abhay,"San Francisco, CA",2008-01-28T21:08:23Z,18.63,https://github.com/abhay,50,206,Ruby
+76,rabble,"Pōneke, Aotearoa",2008-01-28T23:27:02Z,18.63,https://github.com/rabble,82,421,JavaScript
+77,benburkert,NYC,2008-01-28T23:44:14Z,18.63,https://github.com/benburkert,151,248,Ruby
+78,indirect,San Francisco,2008-01-29T07:59:27Z,18.63,https://github.com/indirect,274,1214,Ruby
+79,fearoffish,"Skipton, UK",2008-01-29T08:43:10Z,18.63,https://github.com/fearoffish,68,75,Ruby
+80,ry,California,2008-01-29T08:50:34Z,18.63,https://github.com/ry,63,33456,TypeScript
+81,engineyard,"San Francisco, CA",2008-01-29T09:51:30Z,18.63,https://github.com/engineyard,336,33,Ruby
+82,jsierles,"Andalucía, Spain",2008-01-29T11:10:25Z,18.63,https://github.com/jsierles,181,309,Ruby
+83,tweibley,Florida,2008-01-29T13:52:07Z,18.63,https://github.com/tweibley,20,67,Ruby
+84,peimei,"Palm Springs, CA",2008-01-29T15:44:11Z,18.63,https://github.com/peimei,5,29,Ruby
+85,brixen,"Portland, OR",2008-01-29T16:47:55Z,18.63,https://github.com/brixen,139,394,Ruby
+87,tmornini,San Francisco,2008-01-29T18:43:39Z,18.63,https://github.com/tmornini,17,69,Go
+88,outerim,"SLC, UT",2008-01-29T18:48:32Z,18.63,https://github.com/outerim,27,44,Ruby
+89,daksis,"San Francisco, CA, USA",2008-01-29T19:18:16Z,18.63,https://github.com/daksis,6,98,JavaScript
+90,sr,Europe,2008-01-29T20:37:53Z,18.63,https://github.com/sr,135,642,Ruby
+91,lifo,,2008-01-29T23:09:30Z,18.63,https://github.com/lifo,0,638,
+92,rsl,"Atlanta, GA",2008-01-29T23:13:36Z,18.63,https://github.com/rsl,41,90,Ruby
+93,imownbey,"San Francisco, CA",2008-01-29T23:13:44Z,18.63,https://github.com/imownbey,76,117,Ruby
+94,dylanegan,"Sydney, Australia",2008-01-29T23:15:18Z,18.63,https://github.com/dylanegan,55,142,Ruby
+95,jm,"Orlando, FL",2008-01-29T23:15:32Z,18.63,https://github.com/jm,137,555,Ruby
+100,kmarsh,"Perrysburg, OH",2008-01-29T23:48:24Z,18.63,https://github.com/kmarsh,62,92,Ruby
+101,jvantuyl,"Plumas County, California, USA",2008-01-30T01:11:50Z,18.63,https://github.com/jvantuyl,91,79,Elixir
+102,BrianTheCoder,"Santa Monica,CA",2008-01-30T02:22:32Z,18.63,https://github.com/BrianTheCoder,109,121,Ruby
+103,freeformz,"PDX Area, OR",2008-01-30T06:19:57Z,18.63,https://github.com/freeformz,175,259,Go
+104,hassox,Austin,2008-01-30T06:31:06Z,18.63,https://github.com/hassox,161,392,Ruby
+105,automatthew,,2008-01-30T19:00:58Z,18.63,https://github.com/automatthew,21,97,Ruby
+106,queso,"Cincinnati, Oh",2008-01-30T19:48:45Z,18.63,https://github.com/queso,95,377,JavaScript
+107,lancecarlson,"Ann Arbor, MI",2008-01-30T19:53:29Z,18.63,https://github.com/lancecarlson,142,160,Ruby
+108,drnic,"Brisbane, Australia",2008-01-30T23:19:18Z,18.63,https://github.com/drnic,694,1846,Ruby
+109,lukesutton,South Australia,2008-01-31T04:01:02Z,18.63,https://github.com/lukesutton,18,76,Swift
+110,danwrong,London,2008-01-31T08:51:31Z,18.63,https://github.com/danwrong,34,389,Ruby
+111,HamptonMakes,"New York, NY",2008-01-31T17:03:51Z,18.62,https://github.com/HamptonMakes,81,714,Ruby
+112,jfrost,,2008-01-31T22:14:27Z,18.62,https://github.com/jfrost,12,36,Go
+113,mattetti,"Los Angeles, CA",2008-01-31T22:56:31Z,18.62,https://github.com/mattetti,307,1132,Ruby
+114,ctennis,"Indiana, USA",2008-01-31T23:43:14Z,18.62,https://github.com/ctennis,10,45,HTML
+115,lawrencepit,,2008-01-31T23:57:16Z,18.62,https://github.com/lawrencepit,27,55,Ruby
+116,marcjeanson,Earth,2008-02-01T01:27:19Z,18.62,https://github.com/marcjeanson,31,68,Ruby
+117,grempe,"Virginia, US",2008-02-01T04:12:42Z,18.62,https://github.com/grempe,47,158,Ruby
+118,peterc,United Kingdom,2008-02-02T01:00:36Z,18.62,https://github.com/peterc,50,767,Ruby
+119,ministrycentered,"Carlsbad, CA",2008-02-02T03:50:26Z,18.62,https://github.com/ministrycentered,72,27,Ruby
+120,afarnham,"Houston, TX",2008-02-02T05:11:03Z,18.62,https://github.com/afarnham,48,57,Swift
+121,up_the_irons,Los Angeles,2008-02-02T10:59:51Z,18.62,https://github.com/up_the_irons,50,62,Ruby
+122,cristibalan,Everywhere,2008-02-02T11:29:45Z,18.62,https://github.com/cristibalan,24,124,Ruby
+123,heavysixer,Kansas City,2008-02-02T15:06:53Z,18.62,https://github.com/heavysixer,23,132,JavaScript
+124,brosner,"Denver, CO",2008-02-02T19:03:54Z,18.62,https://github.com/brosner,116,1044,Python
+125,danielmorrison,"Holland, MI",2008-02-02T19:46:35Z,18.62,https://github.com/danielmorrison,36,148,Ruby
+126,danielharan,"Montreal, QC, Canada",2008-02-02T21:42:21Z,18.62,https://github.com/danielharan,33,121,Ruby
+127,kvnsmth,,2008-02-02T22:00:03Z,18.62,https://github.com/kvnsmth,32,152,Objective-C
+128,collectiveidea,United States of America,2008-02-02T22:34:46Z,18.62,https://github.com/collectiveidea,184,90,Ruby
+129,canadaduane,"Salt Lake City, UT, USA",2008-02-02T23:25:39Z,18.62,https://github.com/canadaduane,263,240,JavaScript
+130,corasaurus-hex,"Milwaukee, WI",2008-02-03T04:20:22Z,18.62,https://github.com/corasaurus-hex,53,141,Ruby
+131,dstrelau,"Minneapolis, MN",2008-02-03T14:59:12Z,18.62,https://github.com/dstrelau,51,103,Ruby
+132,sunny,"Paris, France",2008-02-03T15:43:43Z,18.62,https://github.com/sunny,250,393,Ruby
+133,dkubb,"Agassiz, BC, Canada",2008-02-03T20:40:13Z,18.61,https://github.com/dkubb,55,582,Ruby
+134,jnicklas,"Gothenburg, Sweden",2008-02-03T20:43:50Z,18.61,https://github.com/jnicklas,151,884,Ruby
+135,richcollins,San Francisco,2008-02-03T21:11:25Z,18.61,https://github.com/richcollins,32,79,JavaScript
+136,simonjefford,"Oxford, UK",2008-02-03T21:35:34Z,18.61,https://github.com/simonjefford,90,48,Ruby
+1,mojombo,San Francisco,2007-10-20T05:24:19Z,18.91,https://github.com/mojombo,66,24814,Ruby
+2,defunkt,,2007-10-20T05:24:19Z,18.91,https://github.com/defunkt,107,22823,Ruby
+3,pjhyett,,2008-01-07T17:54:22Z,18.69,https://github.com/pjhyett,8,8445,Ruby
+4,wycats,"Portland, OR",2008-01-12T05:38:33Z,18.68,https://github.com/wycats,325,10343,Ruby
+5,ezmobius,In the NW,2008-01-12T07:51:46Z,18.68,https://github.com/ezmobius,22,631,Ruby
+6,ivey,"West Hartford, CT",2008-01-12T15:15:00Z,18.68,https://github.com/ivey,38,226,Ruby
+7,evanphx,"Los Angeles, CA",2008-01-12T16:46:24Z,18.68,https://github.com/evanphx,193,1777,Ruby
+17,vanpelt,San Francisco,2008-01-13T05:57:18Z,18.67,https://github.com/vanpelt,70,532,Ruby
+18,wayneeseguin,"Buffalo, NY",2008-01-13T06:02:21Z,18.67,https://github.com/wayneeseguin,116,813,Ruby
+19,brynary,New York City,2008-01-13T10:19:47Z,18.67,https://github.com/brynary,206,839,Ruby
+20,kevinclark,,2008-01-13T18:33:26Z,18.67,https://github.com/kevinclark,51,141,Python
+21,technoweenie,,2008-01-14T04:33:35Z,18.67,https://github.com/technoweenie,177,2764,Ruby
+22,macournoyer,"Montreal, QC, Canada",2008-01-14T10:49:35Z,18.67,https://github.com/macournoyer,77,1323,Ruby
+23,takeo,"Portland, OR",2008-01-14T11:25:49Z,18.67,https://github.com/takeo,22,131,JavaScript
+25,caged,Places,2008-01-15T04:47:24Z,18.67,https://github.com/caged,170,2422,JavaScript
+26,topfunky,"Seattle, USA",2008-01-15T05:40:05Z,18.67,https://github.com/topfunky,98,1538,Ruby
+27,anotherjesse,"Berkeley, CA",2008-01-15T07:49:30Z,18.67,https://github.com/anotherjesse,246,325,Python
+28,roland,Tirana,2008-01-15T08:12:51Z,18.67,https://github.com/roland,1,47,C#
+29,lukas,San Francisco,2008-01-15T12:50:02Z,18.67,https://github.com/lukas,61,737,Python
+30,fanvsfan,,2008-01-15T14:15:23Z,18.67,https://github.com/fanvsfan,0,45,
+31,tomtt,Amsterdam,2008-01-15T15:44:31Z,18.67,https://github.com/tomtt,91,93,Ruby
+32,railsjitsu,,2008-01-16T04:57:23Z,18.67,https://github.com/railsjitsu,0,37,
+34,nitay,New York,2008-01-18T14:09:11Z,18.66,https://github.com/nitay,12,69,Python
+35,kevwil,"Frederick, CO",2008-01-19T05:50:12Z,18.66,https://github.com/kevwil,47,84,Ruby
+36,KirinDave,"San Francisco, CA",2008-01-19T08:01:02Z,18.66,https://github.com/KirinDave,83,450,Clojure
+37,jamesgolick,New York,2008-01-19T22:52:30Z,18.66,https://github.com/jamesgolick,110,678,Ruby
+38,atmos,GMT +/- 8,2008-01-22T09:14:11Z,18.65,https://github.com/atmos,3,1416,CoffeeScript
+45,sethfitz,"Bend, OR",2008-01-24T04:40:22Z,18.64,https://github.com/sethfitz,339,659,JavaScript
+46,bmizerany,,2008-01-24T04:44:30Z,18.64,https://github.com/bmizerany,181,1546,Ruby
+47,jnewland,"Austin, TX",2008-01-25T02:28:12Z,18.64,https://github.com/jnewland,133,813,Ruby
+48,joshknowles,"Austin, TX",2008-01-25T21:30:42Z,18.64,https://github.com/joshknowles,14,157,Ruby
+49,hornbeck,"Lawton, OK",2008-01-25T21:49:23Z,18.64,https://github.com/hornbeck,8,107,Erlang
+50,jwhitmire,"Webster, NY",2008-01-25T22:07:48Z,18.64,https://github.com/jwhitmire,33,73,Ruby
+51,elbowdonkey,,2008-01-25T22:08:20Z,18.64,https://github.com/elbowdonkey,53,50,Ruby
+52,reinh,"Portland, OR",2008-01-25T22:16:29Z,18.64,https://github.com/reinh,208,224,Ruby
+53,knzai,"Oakland, CA",2008-01-25T22:33:10Z,18.64,https://github.com/knzai,43,93,Ruby
+68,bs,"San Fransico, CA",2008-01-27T01:46:29Z,18.64,https://github.com/bs,36,193,JavaScript
+69,rsanheim,"Madison, WI, NORTH AMERICA",2008-01-27T07:09:47Z,18.64,https://github.com/rsanheim,52,263,Ruby
+70,schacon,"Berlin, Germany",2008-01-27T17:19:28Z,18.63,https://github.com/schacon,241,14235,Ruby
+71,uggedal,"Oslo, Norway",2008-01-27T22:18:57Z,18.63,https://github.com/uggedal,47,215,Python
+72,bruce,"Vancouver, WA",2008-01-28T07:16:45Z,18.63,https://github.com/bruce,126,413,Ruby
+73,sam,"Dallas, TX",2008-01-28T19:01:26Z,18.63,https://github.com/sam,41,225,Scala
+74,mmower,"Berkshire, England",2008-01-28T19:47:50Z,18.63,https://github.com/mmower,85,90,Objective-C
+75,abhay,"San Francisco, CA",2008-01-28T21:08:23Z,18.63,https://github.com/abhay,50,206,Ruby
+76,rabble,"Pōneke, Aotearoa",2008-01-28T23:27:02Z,18.63,https://github.com/rabble,82,421,JavaScript
+77,benburkert,NYC,2008-01-28T23:44:14Z,18.63,https://github.com/benburkert,151,248,Ruby
+78,indirect,San Francisco,2008-01-29T07:59:27Z,18.63,https://github.com/indirect,274,1214,Ruby
+79,fearoffish,"Skipton, UK",2008-01-29T08:43:10Z,18.63,https://github.com/fearoffish,68,73,Ruby
+80,ry,California,2008-01-29T08:50:34Z,18.63,https://github.com/ry,63,33456,TypeScript
+81,engineyard,"San Francisco, CA",2008-01-29T09:51:30Z,18.63,https://github.com/engineyard,336,33,Ruby
+82,jsierles,"Andalucía, Spain",2008-01-29T11:10:25Z,18.63,https://github.com/jsierles,181,309,Ruby
+83,tweibley,Florida,2008-01-29T13:52:07Z,18.63,https://github.com/tweibley,20,67,Ruby
+84,peimei,"Palm Springs, CA",2008-01-29T15:44:11Z,18.63,https://github.com/peimei,5,29,Ruby
+85,brixen,"Portland, OR",2008-01-29T16:47:55Z,18.63,https://github.com/brixen,139,394,Ruby
+87,tmornini,San Francisco,2008-01-29T18:43:39Z,18.63,https://github.com/tmornini,17,69,Go
+88,outerim,"SLC, UT",2008-01-29T18:48:32Z,18.63,https://github.com/outerim,27,44,Ruby
+89,daksis,"San Francisco, CA, USA",2008-01-29T19:18:16Z,18.63,https://github.com/daksis,6,96,JavaScript
+90,sr,Europe,2008-01-29T20:37:53Z,18.63,https://github.com/sr,135,640,Ruby
+91,lifo,,2008-01-29T23:09:30Z,18.63,https://github.com/lifo,0,636,
+92,rsl,"Atlanta, GA",2008-01-29T23:13:36Z,18.63,https://github.com/rsl,41,88,Ruby
+93,imownbey,"San Francisco, CA",2008-01-29T23:13:44Z,18.63,https://github.com/imownbey,76,117,Ruby
+94,dylanegan,"Sydney, Australia",2008-01-29T23:15:18Z,18.63,https://github.com/dylanegan,55,142,Ruby
+95,jm,"Orlando, FL",2008-01-29T23:15:32Z,18.63,https://github.com/jm,137,555,Ruby
+100,kmarsh,"Perrysburg, OH",2008-01-29T23:48:24Z,18.63,https://github.com/kmarsh,62,92,Ruby
+101,jvantuyl,"Plumas County, California, USA",2008-01-30T01:11:50Z,18.63,https://github.com/jvantuyl,91,79,Elixir
+102,BrianTheCoder,"Santa Monica,CA",2008-01-30T02:22:32Z,18.63,https://github.com/BrianTheCoder,109,119,Ruby
+103,freeformz,"PDX Area, OR",2008-01-30T06:19:57Z,18.63,https://github.com/freeformz,175,259,Go
+104,hassox,Austin,2008-01-30T06:31:06Z,18.63,https://github.com/hassox,161,390,Ruby
+105,automatthew,,2008-01-30T19:00:58Z,18.63,https://github.com/automatthew,21,97,Ruby
+106,queso,"Cincinnati, Oh",2008-01-30T19:48:45Z,18.63,https://github.com/queso,95,375,JavaScript
+107,lancecarlson,"Ann Arbor, MI",2008-01-30T19:53:29Z,18.63,https://github.com/lancecarlson,142,160,Ruby
+108,drnic,"Brisbane, Australia",2008-01-30T23:19:18Z,18.63,https://github.com/drnic,694,1846,Ruby
+109,lukesutton,South Australia,2008-01-31T04:01:02Z,18.63,https://github.com/lukesutton,18,76,Swift
+110,danwrong,London,2008-01-31T08:51:31Z,18.63,https://github.com/danwrong,34,389,Ruby
+111,HamptonMakes,"New York, NY",2008-01-31T17:03:51Z,18.63,https://github.com/HamptonMakes,81,714,Ruby
+112,jfrost,,2008-01-31T22:14:27Z,18.62,https://github.com/jfrost,12,36,Go
+113,mattetti,"Los Angeles, CA",2008-01-31T22:56:31Z,18.62,https://github.com/mattetti,307,1132,Ruby
+114,ctennis,"Indiana, USA",2008-01-31T23:43:14Z,18.62,https://github.com/ctennis,10,45,HTML
+115,lawrencepit,,2008-01-31T23:57:16Z,18.62,https://github.com/lawrencepit,27,53,Ruby
+116,marcjeanson,Earth,2008-02-01T01:27:19Z,18.62,https://github.com/marcjeanson,31,68,Ruby
+117,grempe,"Virginia, US",2008-02-01T04:12:42Z,18.62,https://github.com/grempe,47,158,Ruby
+118,peterc,United Kingdom,2008-02-02T01:00:36Z,18.62,https://github.com/peterc,50,765,Ruby
+119,ministrycentered,"Carlsbad, CA",2008-02-02T03:50:26Z,18.62,https://github.com/ministrycentered,72,27,Ruby
+120,afarnham,"Houston, TX",2008-02-02T05:11:03Z,18.62,https://github.com/afarnham,48,57,Swift
+121,up_the_irons,Los Angeles,2008-02-02T10:59:51Z,18.62,https://github.com/up_the_irons,50,62,Ruby
+122,cristibalan,Everywhere,2008-02-02T11:29:45Z,18.62,https://github.com/cristibalan,24,123,Ruby
+123,heavysixer,Kansas City,2008-02-02T15:06:53Z,18.62,https://github.com/heavysixer,23,132,JavaScript
+124,brosner,"Denver, CO",2008-02-02T19:03:54Z,18.62,https://github.com/brosner,116,1042,Python
+125,danielmorrison,"Holland, MI",2008-02-02T19:46:35Z,18.62,https://github.com/danielmorrison,36,148,Ruby
+126,danielharan,"Montreal, QC, Canada",2008-02-02T21:42:21Z,18.62,https://github.com/danielharan,33,121,Ruby
+127,kvnsmth,,2008-02-02T22:00:03Z,18.62,https://github.com/kvnsmth,32,152,Objective-C
+128,collectiveidea,United States of America,2008-02-02T22:34:46Z,18.62,https://github.com/collectiveidea,184,90,Ruby
+129,canadaduane,"Salt Lake City, UT, USA",2008-02-02T23:25:39Z,18.62,https://github.com/canadaduane,263,240,JavaScript
+130,corasaurus-hex,"Milwaukee, WI",2008-02-03T04:20:22Z,18.62,https://github.com/corasaurus-hex,53,141,Ruby
+131,dstrelau,"Minneapolis, MN",2008-02-03T14:59:12Z,18.62,https://github.com/dstrelau,51,101,Ruby
+132,sunny,"Paris, France",2008-02-03T15:43:43Z,18.62,https://github.com/sunny,250,393,Ruby
+133,dkubb,"Agassiz, BC, Canada",2008-02-03T20:40:13Z,18.61,https://github.com/dkubb,55,582,Ruby
+134,jnicklas,"Gothenburg, Sweden",2008-02-03T20:43:50Z,18.61,https://github.com/jnicklas,151,884,Ruby
+135,richcollins,San Francisco,2008-02-03T21:11:25Z,18.61,https://github.com/richcollins,32,79,JavaScript
+136,simonjefford,"Oxford, UK",2008-02-03T21:35:34Z,18.61,https://github.com/simonjefford,90,48,Ruby
+1,mojombo,San Francisco,2007-10-20T05:24:19Z,18.91,https://github.com/mojombo,66,24812,Ruby
+2,defunkt,,2007-10-20T05:24:19Z,18.91,https://github.com/defunkt,107,22821,Ruby
+3,pjhyett,,2008-01-07T17:54:22Z,18.69,https://github.com/pjhyett,8,8443,Ruby
+4,wycats,"Portland, OR",2008-01-12T05:38:33Z,18.68,https://github.com/wycats,325,10343,Ruby
+5,ezmobius,In the NW,2008-01-12T07:51:46Z,18.68,https://github.com/ezmobius,22,629,Ruby
+6,ivey,"West Hartford, CT",2008-01-12T15:15:00Z,18.68,https://github.com/ivey,38,226,Ruby
+7,evanphx,"Los Angeles, CA",2008-01-12T16:46:24Z,18.68,https://github.com/evanphx,193,1777,Ruby
+17,vanpelt,San Francisco,2008-01-13T05:57:18Z,18.67,https://github.com/vanpelt,70,531,Ruby
+18,wayneeseguin,"Buffalo, NY",2008-01-13T06:02:21Z,18.67,https://github.com/wayneeseguin,116,812,Ruby
+19,brynary,New York City,2008-01-13T10:19:47Z,18.67,https://github.com/brynary,206,838,Ruby
+20,kevinclark,,2008-01-13T18:33:26Z,18.67,https://github.com/kevinclark,51,141,Python
+21,technoweenie,,2008-01-14T04:33:35Z,18.67,https://github.com/technoweenie,177,2763,Ruby
+22,macournoyer,"Montreal, QC, Canada",2008-01-14T10:49:35Z,18.67,https://github.com/macournoyer,77,1322,Ruby
+23,takeo,"Portland, OR",2008-01-14T11:25:49Z,18.67,https://github.com/takeo,22,130,JavaScript
+25,caged,Places,2008-01-15T04:47:24Z,18.67,https://github.com/caged,170,2421,JavaScript
+26,topfunky,"Seattle, USA",2008-01-15T05:40:05Z,18.67,https://github.com/topfunky,98,1537,Ruby
+27,anotherjesse,"Berkeley, CA",2008-01-15T07:49:30Z,18.67,https://github.com/anotherjesse,246,324,Python
+28,roland,Tirana,2008-01-15T08:12:51Z,18.67,https://github.com/roland,1,47,C#
+29,lukas,San Francisco,2008-01-15T12:50:02Z,18.67,https://github.com/lukas,61,737,Python
+30,fanvsfan,,2008-01-15T14:15:23Z,18.67,https://github.com/fanvsfan,0,45,
+31,tomtt,Amsterdam,2008-01-15T15:44:31Z,18.67,https://github.com/tomtt,91,92,Ruby
+32,railsjitsu,,2008-01-16T04:57:23Z,18.67,https://github.com/railsjitsu,0,37,
+34,nitay,New York,2008-01-18T14:09:11Z,18.66,https://github.com/nitay,12,69,Python
+35,kevwil,"Frederick, CO",2008-01-19T05:50:12Z,18.66,https://github.com/kevwil,47,84,Ruby
+36,KirinDave,"San Francisco, CA",2008-01-19T08:01:02Z,18.66,https://github.com/KirinDave,83,450,Clojure
+37,jamesgolick,New York,2008-01-19T22:52:30Z,18.66,https://github.com/jamesgolick,110,678,Ruby
+38,atmos,GMT +/- 8,2008-01-22T09:14:11Z,18.65,https://github.com/atmos,3,1416,CoffeeScript
+45,sethfitz,"Bend, OR",2008-01-24T04:40:22Z,18.64,https://github.com/sethfitz,339,659,JavaScript
+46,bmizerany,,2008-01-24T04:44:30Z,18.64,https://github.com/bmizerany,181,1546,Ruby
+47,jnewland,"Austin, TX",2008-01-25T02:28:12Z,18.64,https://github.com/jnewland,133,813,Ruby
+48,joshknowles,"Austin, TX",2008-01-25T21:30:42Z,18.64,https://github.com/joshknowles,14,157,Ruby
+49,hornbeck,"Lawton, OK",2008-01-25T21:49:23Z,18.64,https://github.com/hornbeck,8,107,Erlang
+50,jwhitmire,"Webster, NY",2008-01-25T22:07:48Z,18.64,https://github.com/jwhitmire,33,73,Ruby
+51,elbowdonkey,,2008-01-25T22:08:20Z,18.64,https://github.com/elbowdonkey,53,50,Ruby
+52,reinh,"Portland, OR",2008-01-25T22:16:29Z,18.64,https://github.com/reinh,208,224,Ruby
+53,knzai,"Oakland, CA",2008-01-25T22:33:10Z,18.64,https://github.com/knzai,43,93,Ruby
+68,bs,"San Fransico, CA",2008-01-27T01:46:29Z,18.64,https://github.com/bs,36,193,JavaScript
+69,rsanheim,"Madison, WI, NORTH AMERICA",2008-01-27T07:09:47Z,18.64,https://github.com/rsanheim,52,263,Ruby
+70,schacon,"Berlin, Germany",2008-01-27T17:19:28Z,18.64,https://github.com/schacon,241,14235,Ruby
+71,uggedal,"Oslo, Norway",2008-01-27T22:18:57Z,18.63,https://github.com/uggedal,47,215,Python
+72,bruce,"Vancouver, WA",2008-01-28T07:16:45Z,18.63,https://github.com/bruce,126,413,Ruby
+73,sam,"Dallas, TX",2008-01-28T19:01:26Z,18.63,https://github.com/sam,41,225,Scala
+74,mmower,"Berkshire, England",2008-01-28T19:47:50Z,18.63,https://github.com/mmower,85,90,Objective-C
+75,abhay,"San Francisco, CA",2008-01-28T21:08:23Z,18.63,https://github.com/abhay,50,206,Ruby
+76,rabble,"Pōneke, Aotearoa",2008-01-28T23:27:02Z,18.63,https://github.com/rabble,82,421,JavaScript
+77,benburkert,NYC,2008-01-28T23:44:14Z,18.63,https://github.com/benburkert,151,248,Ruby
+78,indirect,San Francisco,2008-01-29T07:59:27Z,18.63,https://github.com/indirect,274,1214,Ruby
+79,fearoffish,"Skipton, UK",2008-01-29T08:43:10Z,18.63,https://github.com/fearoffish,68,73,Ruby
+80,ry,California,2008-01-29T08:50:34Z,18.63,https://github.com/ry,63,33456,TypeScript
+81,engineyard,"San Francisco, CA",2008-01-29T09:51:30Z,18.63,https://github.com/engineyard,336,33,Ruby
+82,jsierles,"Andalucía, Spain",2008-01-29T11:10:25Z,18.63,https://github.com/jsierles,181,309,Ruby
+83,tweibley,Florida,2008-01-29T13:52:07Z,18.63,https://github.com/tweibley,20,67,Ruby
+84,peimei,"Palm Springs, CA",2008-01-29T15:44:11Z,18.63,https://github.com/peimei,5,29,Ruby
+85,brixen,"Portland, OR",2008-01-29T16:47:55Z,18.63,https://github.com/brixen,139,394,Ruby
+87,tmornini,San Francisco,2008-01-29T18:43:39Z,18.63,https://github.com/tmornini,17,69,Go
+88,outerim,"SLC, UT",2008-01-29T18:48:32Z,18.63,https://github.com/outerim,27,44,Ruby
+89,daksis,"San Francisco, CA, USA",2008-01-29T19:18:16Z,18.63,https://github.com/daksis,6,96,JavaScript
+90,sr,Europe,2008-01-29T20:37:53Z,18.63,https://github.com/sr,135,640,Ruby
+91,lifo,,2008-01-29T23:09:30Z,18.63,https://github.com/lifo,0,636,
+92,rsl,"Atlanta, GA",2008-01-29T23:13:36Z,18.63,https://github.com/rsl,41,88,Ruby
+93,imownbey,"San Francisco, CA",2008-01-29T23:13:44Z,18.63,https://github.com/imownbey,76,117,Ruby
+94,dylanegan,"Sydney, Australia",2008-01-29T23:15:18Z,18.63,https://github.com/dylanegan,55,142,Ruby
+95,jm,"Orlando, FL",2008-01-29T23:15:32Z,18.63,https://github.com/jm,137,555,Ruby
+100,kmarsh,"Perrysburg, OH",2008-01-29T23:48:24Z,18.63,https://github.com/kmarsh,62,92,Ruby
+101,jvantuyl,"Plumas County, California, USA",2008-01-30T01:11:50Z,18.63,https://github.com/jvantuyl,91,79,Elixir
+102,BrianTheCoder,"Santa Monica,CA",2008-01-30T02:22:32Z,18.63,https://github.com/BrianTheCoder,109,119,Ruby
+103,freeformz,"PDX Area, OR",2008-01-30T06:19:57Z,18.63,https://github.com/freeformz,175,259,Go
+104,hassox,Austin,2008-01-30T06:31:06Z,18.63,https://github.com/hassox,161,390,Ruby
+105,automatthew,,2008-01-30T19:00:58Z,18.63,https://github.com/automatthew,21,97,Ruby
+106,queso,"Cincinnati, Oh",2008-01-30T19:48:45Z,18.63,https://github.com/queso,95,375,JavaScript
+107,lancecarlson,"Ann Arbor, MI",2008-01-30T19:53:29Z,18.63,https://github.com/lancecarlson,142,160,Ruby
+108,drnic,"Brisbane, Australia",2008-01-30T23:19:18Z,18.63,https://github.com/drnic,694,1846,Ruby
+109,lukesutton,South Australia,2008-01-31T04:01:02Z,18.63,https://github.com/lukesutton,18,76,Swift
+110,danwrong,London,2008-01-31T08:51:31Z,18.63,https://github.com/danwrong,34,389,Ruby
+111,HamptonMakes,"New York, NY",2008-01-31T17:03:51Z,18.63,https://github.com/HamptonMakes,81,714,Ruby
+112,jfrost,,2008-01-31T22:14:27Z,18.62,https://github.com/jfrost,12,36,Go
+113,mattetti,"Los Angeles, CA",2008-01-31T22:56:31Z,18.62,https://github.com/mattetti,307,1132,Ruby
+114,ctennis,"Indiana, USA",2008-01-31T23:43:14Z,18.62,https://github.com/ctennis,10,45,HTML
+115,lawrencepit,,2008-01-31T23:57:16Z,18.62,https://github.com/lawrencepit,27,53,Ruby
+116,marcjeanson,Earth,2008-02-01T01:27:19Z,18.62,https://github.com/marcjeanson,31,68,Ruby
+117,grempe,"Virginia, US",2008-02-01T04:12:42Z,18.62,https://github.com/grempe,47,158,Ruby
+118,peterc,United Kingdom,2008-02-02T01:00:36Z,18.62,https://github.com/peterc,50,765,Ruby
+119,ministrycentered,"Carlsbad, CA",2008-02-02T03:50:26Z,18.62,https://github.com/ministrycentered,72,27,Ruby
+120,afarnham,"Houston, TX",2008-02-02T05:11:03Z,18.62,https://github.com/afarnham,48,57,Swift
+121,up_the_irons,Los Angeles,2008-02-02T10:59:51Z,18.62,https://github.com/up_the_irons,50,62,Ruby
+122,cristibalan,Everywhere,2008-02-02T11:29:45Z,18.62,https://github.com/cristibalan,24,123,Ruby
+123,heavysixer,Kansas City,2008-02-02T15:06:53Z,18.62,https://github.com/heavysixer,23,132,JavaScript
+124,brosner,"Denver, CO",2008-02-02T19:03:54Z,18.62,https://github.com/brosner,116,1042,Python
+125,danielmorrison,"Holland, MI",2008-02-02T19:46:35Z,18.62,https://github.com/danielmorrison,36,148,Ruby
+126,danielharan,"Montreal, QC, Canada",2008-02-02T21:42:21Z,18.62,https://github.com/danielharan,33,121,Ruby
+127,kvnsmth,,2008-02-02T22:00:03Z,18.62,https://github.com/kvnsmth,32,152,Objective-C
+128,collectiveidea,United States of America,2008-02-02T22:34:46Z,18.62,https://github.com/collectiveidea,184,90,Ruby
+129,canadaduane,"Salt Lake City, UT, USA",2008-02-02T23:25:39Z,18.62,https://github.com/canadaduane,263,240,JavaScript
+130,corasaurus-hex,"Milwaukee, WI",2008-02-03T04:20:22Z,18.62,https://github.com/corasaurus-hex,53,141,Ruby
+131,dstrelau,"Minneapolis, MN",2008-02-03T14:59:12Z,18.62,https://github.com/dstrelau,51,101,Ruby
+132,sunny,"Paris, France",2008-02-03T15:43:43Z,18.62,https://github.com/sunny,250,393,Ruby
+133,dkubb,"Agassiz, BC, Canada",2008-02-03T20:40:13Z,18.61,https://github.com/dkubb,55,582,Ruby
+134,jnicklas,"Gothenburg, Sweden",2008-02-03T20:43:50Z,18.61,https://github.com/jnicklas,151,884,Ruby
+135,richcollins,San Francisco,2008-02-03T21:11:25Z,18.61,https://github.com/richcollins,32,79,JavaScript
+136,simonjefford,"Oxford, UK",2008-02-03T21:35:34Z,18.61,https://github.com/simonjefford,90,48,Ruby
+1,mojombo,San Francisco,2007-10-20T05:24:19Z,18.91,https://github.com/mojombo,66,24812,Ruby
+2,defunkt,,2007-10-20T05:24:19Z,18.91,https://github.com/defunkt,107,22821,Ruby
+3,pjhyett,,2008-01-07T17:54:22Z,18.69,https://github.com/pjhyett,8,8443,Ruby
+4,wycats,"Portland, OR",2008-01-12T05:38:33Z,18.68,https://github.com/wycats,325,10343,Ruby
+5,ezmobius,In the NW,2008-01-12T07:51:46Z,18.68,https://github.com/ezmobius,22,629,Ruby
+6,ivey,"West Hartford, CT",2008-01-12T15:15:00Z,18.68,https://github.com/ivey,38,226,Ruby
+7,evanphx,"Los Angeles, CA",2008-01-12T16:46:24Z,18.68,https://github.com/evanphx,193,1777,Ruby
+17,vanpelt,San Francisco,2008-01-13T05:57:18Z,18.67,https://github.com/vanpelt,70,531,Ruby
+18,wayneeseguin,"Buffalo, NY",2008-01-13T06:02:21Z,18.67,https://github.com/wayneeseguin,116,812,Ruby
+19,brynary,New York City,2008-01-13T10:19:47Z,18.67,https://github.com/brynary,206,838,Ruby
+20,kevinclark,,2008-01-13T18:33:26Z,18.67,https://github.com/kevinclark,51,141,Python
+21,technoweenie,,2008-01-14T04:33:35Z,18.67,https://github.com/technoweenie,177,2763,Ruby
+22,macournoyer,"Montreal, QC, Canada",2008-01-14T10:49:35Z,18.67,https://github.com/macournoyer,77,1322,Ruby
+23,takeo,"Portland, OR",2008-01-14T11:25:49Z,18.67,https://github.com/takeo,22,130,JavaScript
+25,caged,Places,2008-01-15T04:47:24Z,18.67,https://github.com/caged,170,2421,JavaScript
+26,topfunky,"Seattle, USA",2008-01-15T05:40:05Z,18.67,https://github.com/topfunky,98,1537,Ruby
+27,anotherjesse,"Berkeley, CA",2008-01-15T07:49:30Z,18.67,https://github.com/anotherjesse,246,324,Python
+28,roland,Tirana,2008-01-15T08:12:51Z,18.67,https://github.com/roland,1,47,C#
+29,lukas,San Francisco,2008-01-15T12:50:02Z,18.67,https://github.com/lukas,61,737,Python
+30,fanvsfan,,2008-01-15T14:15:23Z,18.67,https://github.com/fanvsfan,0,45,
+31,tomtt,Amsterdam,2008-01-15T15:44:31Z,18.67,https://github.com/tomtt,91,92,Ruby
+32,railsjitsu,,2008-01-16T04:57:23Z,18.67,https://github.com/railsjitsu,0,37,
+34,nitay,New York,2008-01-18T14:09:11Z,18.66,https://github.com/nitay,12,69,Python
+35,kevwil,"Frederick, CO",2008-01-19T05:50:12Z,18.66,https://github.com/kevwil,47,84,Ruby
+36,KirinDave,"San Francisco, CA",2008-01-19T08:01:02Z,18.66,https://github.com/KirinDave,83,450,Clojure
+37,jamesgolick,New York,2008-01-19T22:52:30Z,18.66,https://github.com/jamesgolick,110,678,Ruby
+38,atmos,GMT +/- 8,2008-01-22T09:14:11Z,18.65,https://github.com/atmos,3,1416,CoffeeScript
+45,sethfitz,"Bend, OR",2008-01-24T04:40:22Z,18.64,https://github.com/sethfitz,339,659,JavaScript
+46,bmizerany,,2008-01-24T04:44:30Z,18.64,https://github.com/bmizerany,181,1546,Ruby
+47,jnewland,"Austin, TX",2008-01-25T02:28:12Z,18.64,https://github.com/jnewland,133,813,Ruby
+48,joshknowles,"Austin, TX",2008-01-25T21:30:42Z,18.64,https://github.com/joshknowles,14,157,Ruby
+49,hornbeck,"Lawton, OK",2008-01-25T21:49:23Z,18.64,https://github.com/hornbeck,8,107,Erlang
+50,jwhitmire,"Webster, NY",2008-01-25T22:07:48Z,18.64,https://github.com/jwhitmire,33,73,Ruby
+51,elbowdonkey,,2008-01-25T22:08:20Z,18.64,https://github.com/elbowdonkey,53,50,Ruby
+52,reinh,"Portland, OR",2008-01-25T22:16:29Z,18.64,https://github.com/reinh,208,224,Ruby
+53,knzai,"Oakland, CA",2008-01-25T22:33:10Z,18.64,https://github.com/knzai,43,93,Ruby
+68,bs,"San Fransico, CA",2008-01-27T01:46:29Z,18.64,https://github.com/bs,36,193,JavaScript
+69,rsanheim,"Madison, WI, NORTH AMERICA",2008-01-27T07:09:47Z,18.64,https://github.com/rsanheim,52,263,Ruby
+70,schacon,"Berlin, Germany",2008-01-27T17:19:28Z,18.64,https://github.com/schacon,241,14235,Ruby
+71,uggedal,"Oslo, Norway",2008-01-27T22:18:57Z,18.63,https://github.com/uggedal,47,215,Python
+72,bruce,"Vancouver, WA",2008-01-28T07:16:45Z,18.63,https://github.com/bruce,126,413,Ruby
+73,sam,"Dallas, TX",2008-01-28T19:01:26Z,18.63,https://github.com/sam,41,225,Scala
+74,mmower,"Berkshire, England",2008-01-28T19:47:50Z,18.63,https://github.com/mmower,85,90,Objective-C
+75,abhay,"San Francisco, CA",2008-01-28T21:08:23Z,18.63,https://github.com/abhay,50,206,Ruby
+76,rabble,"Pōneke, Aotearoa",2008-01-28T23:27:02Z,18.63,https://github.com/rabble,82,421,JavaScript
+77,benburkert,NYC,2008-01-28T23:44:14Z,18.63,https://github.com/benburkert,151,248,Ruby
+78,indirect,San Francisco,2008-01-29T07:59:27Z,18.63,https://github.com/indirect,274,1214,Ruby
+79,fearoffish,"Skipton, UK",2008-01-29T08:43:10Z,18.63,https://github.com/fearoffish,68,73,Ruby
+80,ry,California,2008-01-29T08:50:34Z,18.63,https://github.com/ry,63,33456,TypeScript
+81,engineyard,"San Francisco, CA",2008-01-29T09:51:30Z,18.63,https://github.com/engineyard,336,33,Ruby
+82,jsierles,"Andalucía, Spain",2008-01-29T11:10:25Z,18.63,https://github.com/jsierles,181,309,Ruby
+83,tweibley,Florida,2008-01-29T13:52:07Z,18.63,https://github.com/tweibley,20,67,Ruby
+84,peimei,"Palm Springs, CA",2008-01-29T15:44:11Z,18.63,https://github.com/peimei,5,29,Ruby
+85,brixen,"Portland, OR",2008-01-29T16:47:55Z,18.63,https://github.com/brixen,139,394,Ruby
+87,tmornini,San Francisco,2008-01-29T18:43:39Z,18.63,https://github.com/tmornini,17,69,Go
+88,outerim,"SLC, UT",2008-01-29T18:48:32Z,18.63,https://github.com/outerim,27,44,Ruby
+89,daksis,"San Francisco, CA, USA",2008-01-29T19:18:16Z,18.63,https://github.com/daksis,6,96,JavaScript
+90,sr,Europe,2008-01-29T20:37:53Z,18.63,https://github.com/sr,135,640,Ruby
+91,lifo,,2008-01-29T23:09:30Z,18.63,https://github.com/lifo,0,636,
+92,rsl,"Atlanta, GA",2008-01-29T23:13:36Z,18.63,https://github.com/rsl,41,88,Ruby
+93,imownbey,"San Francisco, CA",2008-01-29T23:13:44Z,18.63,https://github.com/imownbey,76,117,Ruby
+94,dylanegan,"Sydney, Australia",2008-01-29T23:15:18Z,18.63,https://github.com/dylanegan,55,142,Ruby
+95,jm,"Orlando, FL",2008-01-29T23:15:32Z,18.63,https://github.com/jm,137,555,Ruby
+100,kmarsh,"Perrysburg, OH",2008-01-29T23:48:24Z,18.63,https://github.com/kmarsh,62,92,Ruby
+101,jvantuyl,"Plumas County, California, USA",2008-01-30T01:11:50Z,18.63,https://github.com/jvantuyl,91,79,Elixir
+102,BrianTheCoder,"Santa Monica,CA",2008-01-30T02:22:32Z,18.63,https://github.com/BrianTheCoder,109,119,Ruby
+103,freeformz,"PDX Area, OR",2008-01-30T06:19:57Z,18.63,https://github.com/freeformz,175,259,Go
+104,hassox,Austin,2008-01-30T06:31:06Z,18.63,https://github.com/hassox,161,390,Ruby
+105,automatthew,,2008-01-30T19:00:58Z,18.63,https://github.com/automatthew,21,97,Ruby
+106,queso,"Cincinnati, Oh",2008-01-30T19:48:45Z,18.63,https://github.com/queso,95,375,JavaScript
+107,lancecarlson,"Ann Arbor, MI",2008-01-30T19:53:29Z,18.63,https://github.com/lancecarlson,142,160,Ruby
+108,drnic,"Brisbane, Australia",2008-01-30T23:19:18Z,18.63,https://github.com/drnic,694,1846,Ruby
+109,lukesutton,South Australia,2008-01-31T04:01:02Z,18.63,https://github.com/lukesutton,18,76,Swift
+110,danwrong,London,2008-01-31T08:51:31Z,18.63,https://github.com/danwrong,34,389,Ruby
+111,HamptonMakes,"New York, NY",2008-01-31T17:03:51Z,18.63,https://github.com/HamptonMakes,81,714,Ruby
+112,jfrost,,2008-01-31T22:14:27Z,18.62,https://github.com/jfrost,12,36,Go
+113,mattetti,"Los Angeles, CA",2008-01-31T22:56:31Z,18.62,https://github.com/mattetti,307,1132,Ruby
+114,ctennis,"Indiana, USA",2008-01-31T23:43:14Z,18.62,https://github.com/ctennis,10,45,HTML
+115,lawrencepit,,2008-01-31T23:57:16Z,18.62,https://github.com/lawrencepit,27,53,Ruby
+116,marcjeanson,Earth,2008-02-01T01:27:19Z,18.62,https://github.com/marcjeanson,31,68,Ruby
+117,grempe,"Virginia, US",2008-02-01T04:12:42Z,18.62,https://github.com/grempe,47,158,Ruby
+118,peterc,United Kingdom,2008-02-02T01:00:36Z,18.62,https://github.com/peterc,50,765,Ruby
+119,ministrycentered,"Carlsbad, CA",2008-02-02T03:50:26Z,18.62,https://github.com/ministrycentered,72,27,Ruby
+120,afarnham,"Houston, TX",2008-02-02T05:11:03Z,18.62,https://github.com/afarnham,48,57,Swift
+121,up_the_irons,Los Angeles,2008-02-02T10:59:51Z,18.62,https://github.com/up_the_irons,50,62,Ruby
+122,cristibalan,Everywhere,2008-02-02T11:29:45Z,18.62,https://github.com/cristibalan,24,123,Ruby
+123,heavysixer,Kansas City,2008-02-02T15:06:53Z,18.62,https://github.com/heavysixer,23,132,JavaScript
+124,brosner,"Denver, CO",2008-02-02T19:03:54Z,18.62,https://github.com/brosner,116,1042,Python
+125,danielmorrison,"Holland, MI",2008-02-02T19:46:35Z,18.62,https://github.com/danielmorrison,36,148,Ruby
+126,danielharan,"Montreal, QC, Canada",2008-02-02T21:42:21Z,18.62,https://github.com/danielharan,33,121,Ruby
+127,kvnsmth,,2008-02-02T22:00:03Z,18.62,https://github.com/kvnsmth,32,152,Objective-C
+128,collectiveidea,United States of America,2008-02-02T22:34:46Z,18.62,https://github.com/collectiveidea,184,90,Ruby
+129,canadaduane,"Salt Lake City, UT, USA",2008-02-02T23:25:39Z,18.62,https://github.com/canadaduane,263,240,JavaScript
+130,corasaurus-hex,"Milwaukee, WI",2008-02-03T04:20:22Z,18.62,https://github.com/corasaurus-hex,53,141,Ruby
+131,dstrelau,"Minneapolis, MN",2008-02-03T14:59:12Z,18.62,https://github.com/dstrelau,51,101,Ruby
+132,sunny,"Paris, France",2008-02-03T15:43:43Z,18.62,https://github.com/sunny,250,393,Ruby
+133,dkubb,"Agassiz, BC, Canada",2008-02-03T20:40:13Z,18.61,https://github.com/dkubb,55,582,Ruby
+134,jnicklas,"Gothenburg, Sweden",2008-02-03T20:43:50Z,18.61,https://github.com/jnicklas,151,884,Ruby
+135,richcollins,San Francisco,2008-02-03T21:11:25Z,18.61,https://github.com/richcollins,32,79,JavaScript
+136,simonjefford,"Oxford, UK",2008-02-03T21:35:34Z,18.61,https://github.com/simonjefford,90,48,Ruby
+1,mojombo,San Francisco,2007-10-20T05:24:19Z,18.91,https://github.com/mojombo,66,24812,Ruby
+2,defunkt,,2007-10-20T05:24:19Z,18.91,https://github.com/defunkt,107,22821,Ruby
+3,pjhyett,,2008-01-07T17:54:22Z,18.69,https://github.com/pjhyett,8,8443,Ruby
+4,wycats,"Portland, OR",2008-01-12T05:38:33Z,18.68,https://github.com/wycats,325,10343,Ruby
+5,ezmobius,In the NW,2008-01-12T07:51:46Z,18.68,https://github.com/ezmobius,22,629,Ruby
+6,ivey,"West Hartford, CT",2008-01-12T15:15:00Z,18.68,https://github.com/ivey,38,226,Ruby
+7,evanphx,"Los Angeles, CA",2008-01-12T16:46:24Z,18.68,https://github.com/evanphx,193,1777,Ruby
+17,vanpelt,San Francisco,2008-01-13T05:57:18Z,18.67,https://github.com/vanpelt,70,531,Ruby
+18,wayneeseguin,"Buffalo, NY",2008-01-13T06:02:21Z,18.67,https://github.com/wayneeseguin,116,812,Ruby
+19,brynary,New York City,2008-01-13T10:19:47Z,18.67,https://github.com/brynary,206,838,Ruby
+20,kevinclark,,2008-01-13T18:33:26Z,18.67,https://github.com/kevinclark,51,141,Python
+21,technoweenie,,2008-01-14T04:33:35Z,18.67,https://github.com/technoweenie,177,2763,Ruby
+22,macournoyer,"Montreal, QC, Canada",2008-01-14T10:49:35Z,18.67,https://github.com/macournoyer,77,1322,Ruby
+23,takeo,"Portland, OR",2008-01-14T11:25:49Z,18.67,https://github.com/takeo,22,130,JavaScript
+25,caged,Places,2008-01-15T04:47:24Z,18.67,https://github.com/caged,170,2421,JavaScript
+26,topfunky,"Seattle, USA",2008-01-15T05:40:05Z,18.67,https://github.com/topfunky,98,1537,Ruby
+27,anotherjesse,"Berkeley, CA",2008-01-15T07:49:30Z,18.67,https://github.com/anotherjesse,246,324,Python
+28,roland,Tirana,2008-01-15T08:12:51Z,18.67,https://github.com/roland,1,47,C#
+29,lukas,San Francisco,2008-01-15T12:50:02Z,18.67,https://github.com/lukas,61,737,Python
+30,fanvsfan,,2008-01-15T14:15:23Z,18.67,https://github.com/fanvsfan,0,45,
+31,tomtt,Amsterdam,2008-01-15T15:44:31Z,18.67,https://github.com/tomtt,91,92,Ruby
+32,railsjitsu,,2008-01-16T04:57:23Z,18.67,https://github.com/railsjitsu,0,37,
+34,nitay,New York,2008-01-18T14:09:11Z,18.66,https://github.com/nitay,12,69,Python
+35,kevwil,"Frederick, CO",2008-01-19T05:50:12Z,18.66,https://github.com/kevwil,47,84,Ruby
+36,KirinDave,"San Francisco, CA",2008-01-19T08:01:02Z,18.66,https://github.com/KirinDave,83,450,Clojure
+37,jamesgolick,New York,2008-01-19T22:52:30Z,18.66,https://github.com/jamesgolick,110,678,Ruby
+38,atmos,GMT +/- 8,2008-01-22T09:14:11Z,18.65,https://github.com/atmos,3,1416,CoffeeScript
+45,sethfitz,"Bend, OR",2008-01-24T04:40:22Z,18.64,https://github.com/sethfitz,339,659,JavaScript
+46,bmizerany,,2008-01-24T04:44:30Z,18.64,https://github.com/bmizerany,181,1546,Ruby
+47,jnewland,"Austin, TX",2008-01-25T02:28:12Z,18.64,https://github.com/jnewland,133,813,Ruby
+48,joshknowles,"Austin, TX",2008-01-25T21:30:42Z,18.64,https://github.com/joshknowles,14,157,Ruby
+49,hornbeck,"Lawton, OK",2008-01-25T21:49:23Z,18.64,https://github.com/hornbeck,8,107,Erlang
+50,jwhitmire,"Webster, NY",2008-01-25T22:07:48Z,18.64,https://github.com/jwhitmire,33,73,Ruby
+51,elbowdonkey,,2008-01-25T22:08:20Z,18.64,https://github.com/elbowdonkey,53,50,Ruby
+52,reinh,"Portland, OR",2008-01-25T22:16:29Z,18.64,https://github.com/reinh,208,224,Ruby
+53,knzai,"Oakland, CA",2008-01-25T22:33:10Z,18.64,https://github.com/knzai,43,93,Ruby
+68,bs,"San Fransico, CA",2008-01-27T01:46:29Z,18.64,https://github.com/bs,36,193,JavaScript
+69,rsanheim,"Madison, WI, NORTH AMERICA",2008-01-27T07:09:47Z,18.64,https://github.com/rsanheim,52,263,Ruby
+70,schacon,"Berlin, Germany",2008-01-27T17:19:28Z,18.64,https://github.com/schacon,241,14235,Ruby
+71,uggedal,"Oslo, Norway",2008-01-27T22:18:57Z,18.63,https://github.com/uggedal,47,215,Python
+72,bruce,"Vancouver, WA",2008-01-28T07:16:45Z,18.63,https://github.com/bruce,126,413,Ruby
+73,sam,"Dallas, TX",2008-01-28T19:01:26Z,18.63,https://github.com/sam,41,225,Scala
+74,mmower,"Berkshire, England",2008-01-28T19:47:50Z,18.63,https://github.com/mmower,85,90,Objective-C
+75,abhay,"San Francisco, CA",2008-01-28T21:08:23Z,18.63,https://github.com/abhay,50,206,Ruby
+76,rabble,"Pōneke, Aotearoa",2008-01-28T23:27:02Z,18.63,https://github.com/rabble,82,421,JavaScript
+77,benburkert,NYC,2008-01-28T23:44:14Z,18.63,https://github.com/benburkert,151,248,Ruby
+78,indirect,San Francisco,2008-01-29T07:59:27Z,18.63,https://github.com/indirect,274,1214,Ruby
+79,fearoffish,"Skipton, UK",2008-01-29T08:43:10Z,18.63,https://github.com/fearoffish,68,73,Ruby
+80,ry,California,2008-01-29T08:50:34Z,18.63,https://github.com/ry,63,33456,TypeScript
+81,engineyard,"San Francisco, CA",2008-01-29T09:51:30Z,18.63,https://github.com/engineyard,336,33,Ruby
+82,jsierles,"Andalucía, Spain",2008-01-29T11:10:25Z,18.63,https://github.com/jsierles,181,309,Ruby
+83,tweibley,Florida,2008-01-29T13:52:07Z,18.63,https://github.com/tweibley,20,67,Ruby
+84,peimei,"Palm Springs, CA",2008-01-29T15:44:11Z,18.63,https://github.com/peimei,5,29,Ruby
+85,brixen,"Portland, OR",2008-01-29T16:47:55Z,18.63,https://github.com/brixen,139,394,Ruby
+87,tmornini,San Francisco,2008-01-29T18:43:39Z,18.63,https://github.com/tmornini,17,69,Go
+88,outerim,"SLC, UT",2008-01-29T18:48:32Z,18.63,https://github.com/outerim,27,44,Ruby
+89,daksis,"San Francisco, CA, USA",2008-01-29T19:18:16Z,18.63,https://github.com/daksis,6,96,JavaScript
+90,sr,Europe,2008-01-29T20:37:53Z,18.63,https://github.com/sr,135,640,Ruby
+91,lifo,,2008-01-29T23:09:30Z,18.63,https://github.com/lifo,0,636,
+92,rsl,"Atlanta, GA",2008-01-29T23:13:36Z,18.63,https://github.com/rsl,41,88,Ruby
+93,imownbey,"San Francisco, CA",2008-01-29T23:13:44Z,18.63,https://github.com/imownbey,76,117,Ruby
+94,dylanegan,"Sydney, Australia",2008-01-29T23:15:18Z,18.63,https://github.com/dylanegan,55,142,Ruby
+95,jm,"Orlando, FL",2008-01-29T23:15:32Z,18.63,https://github.com/jm,137,555,Ruby
+100,kmarsh,"Perrysburg, OH",2008-01-29T23:48:24Z,18.63,https://github.com/kmarsh,62,92,Ruby
+101,jvantuyl,"Plumas County, California, USA",2008-01-30T01:11:50Z,18.63,https://github.com/jvantuyl,91,79,Elixir
+102,BrianTheCoder,"Santa Monica,CA",2008-01-30T02:22:32Z,18.63,https://github.com/BrianTheCoder,109,119,Ruby
+103,freeformz,"PDX Area, OR",2008-01-30T06:19:57Z,18.63,https://github.com/freeformz,175,259,Go
+104,hassox,Austin,2008-01-30T06:31:06Z,18.63,https://github.com/hassox,161,390,Ruby
+105,automatthew,,2008-01-30T19:00:58Z,18.63,https://github.com/automatthew,21,97,Ruby
+106,queso,"Cincinnati, Oh",2008-01-30T19:48:45Z,18.63,https://github.com/queso,95,375,JavaScript
+107,lancecarlson,"Ann Arbor, MI",2008-01-30T19:53:29Z,18.63,https://github.com/lancecarlson,142,160,Ruby
+108,drnic,"Brisbane, Australia",2008-01-30T23:19:18Z,18.63,https://github.com/drnic,694,1846,Ruby
+109,lukesutton,South Australia,2008-01-31T04:01:02Z,18.63,https://github.com/lukesutton,18,76,Swift
+110,danwrong,London,2008-01-31T08:51:31Z,18.63,https://github.com/danwrong,34,389,Ruby
+111,HamptonMakes,"New York, NY",2008-01-31T17:03:51Z,18.63,https://github.com/HamptonMakes,81,714,Ruby
+112,jfrost,,2008-01-31T22:14:27Z,18.62,https://github.com/jfrost,12,36,Go
+113,mattetti,"Los Angeles, CA",2008-01-31T22:56:31Z,18.62,https://github.com/mattetti,307,1132,Ruby
+114,ctennis,"Indiana, USA",2008-01-31T23:43:14Z,18.62,https://github.com/ctennis,10,45,HTML
+115,lawrencepit,,2008-01-31T23:57:16Z,18.62,https://github.com/lawrencepit,27,53,Ruby
+116,marcjeanson,Earth,2008-02-01T01:27:19Z,18.62,https://github.com/marcjeanson,31,68,Ruby
+117,grempe,"Virginia, US",2008-02-01T04:12:42Z,18.62,https://github.com/grempe,47,158,Ruby
+118,peterc,United Kingdom,2008-02-02T01:00:36Z,18.62,https://github.com/peterc,50,765,Ruby
+119,ministrycentered,"Carlsbad, CA",2008-02-02T03:50:26Z,18.62,https://github.com/ministrycentered,72,27,Ruby
+120,afarnham,"Houston, TX",2008-02-02T05:11:03Z,18.62,https://github.com/afarnham,48,57,Swift
+121,up_the_irons,Los Angeles,2008-02-02T10:59:51Z,18.62,https://github.com/up_the_irons,50,62,Ruby
+122,cristibalan,Everywhere,2008-02-02T11:29:45Z,18.62,https://github.com/cristibalan,24,123,Ruby
+123,heavysixer,Kansas City,2008-02-02T15:06:53Z,18.62,https://github.com/heavysixer,23,132,JavaScript
+124,brosner,"Denver, CO",2008-02-02T19:03:54Z,18.62,https://github.com/brosner,116,1042,Python
+125,danielmorrison,"Holland, MI",2008-02-02T19:46:35Z,18.62,https://github.com/danielmorrison,36,148,Ruby
+126,danielharan,"Montreal, QC, Canada",2008-02-02T21:42:21Z,18.62,https://github.com/danielharan,33,121,Ruby
+127,kvnsmth,,2008-02-02T22:00:03Z,18.62,https://github.com/kvnsmth,32,152,Objective-C
+128,collectiveidea,United States of America,2008-02-02T22:34:46Z,18.62,https://github.com/collectiveidea,184,90,Ruby
+129,canadaduane,"Salt Lake City, UT, USA",2008-02-02T23:25:39Z,18.62,https://github.com/canadaduane,263,240,JavaScript
+130,corasaurus-hex,"Milwaukee, WI",2008-02-03T04:20:22Z,18.62,https://github.com/corasaurus-hex,53,141,Ruby
+131,dstrelau,"Minneapolis, MN",2008-02-03T14:59:12Z,18.62,https://github.com/dstrelau,51,101,Ruby
+132,sunny,"Paris, France",2008-02-03T15:43:43Z,18.62,https://github.com/sunny,250,393,Ruby
+133,dkubb,"Agassiz, BC, Canada",2008-02-03T20:40:13Z,18.61,https://github.com/dkubb,55,582,Ruby
+134,jnicklas,"Gothenburg, Sweden",2008-02-03T20:43:50Z,18.61,https://github.com/jnicklas,151,884,Ruby
+135,richcollins,San Francisco,2008-02-03T21:11:25Z,18.61,https://github.com/richcollins,32,79,JavaScript
+136,simonjefford,"Oxford, UK",2008-02-03T21:35:34Z,18.61,https://github.com/simonjefford,90,48,Ruby
+1,mojombo,San Francisco,2007-10-20T05:24:19Z,18.91,https://github.com/mojombo,66,24812,Ruby
+2,defunkt,,2007-10-20T05:24:19Z,18.91,https://github.com/defunkt,107,22821,Ruby
+3,pjhyett,,2008-01-07T17:54:22Z,18.69,https://github.com/pjhyett,8,8443,Ruby
+4,wycats,"Portland, OR",2008-01-12T05:38:33Z,18.68,https://github.com/wycats,325,10343,Ruby
+5,ezmobius,In the NW,2008-01-12T07:51:46Z,18.68,https://github.com/ezmobius,22,629,Ruby
+6,ivey,"West Hartford, CT",2008-01-12T15:15:00Z,18.68,https://github.com/ivey,38,226,Ruby
+7,evanphx,"Los Angeles, CA",2008-01-12T16:46:24Z,18.68,https://github.com/evanphx,193,1777,Ruby
+17,vanpelt,San Francisco,2008-01-13T05:57:18Z,18.67,https://github.com/vanpelt,70,531,Ruby
+18,wayneeseguin,"Buffalo, NY",2008-01-13T06:02:21Z,18.67,https://github.com/wayneeseguin,116,812,Ruby
+19,brynary,New York City,2008-01-13T10:19:47Z,18.67,https://github.com/brynary,206,838,Ruby
+20,kevinclark,,2008-01-13T18:33:26Z,18.67,https://github.com/kevinclark,51,141,Python
+21,technoweenie,,2008-01-14T04:33:35Z,18.67,https://github.com/technoweenie,177,2763,Ruby
+22,macournoyer,"Montreal, QC, Canada",2008-01-14T10:49:35Z,18.67,https://github.com/macournoyer,77,1322,Ruby
+23,takeo,"Portland, OR",2008-01-14T11:25:49Z,18.67,https://github.com/takeo,22,130,JavaScript
+25,caged,Places,2008-01-15T04:47:24Z,18.67,https://github.com/caged,170,2421,JavaScript
+26,topfunky,"Seattle, USA",2008-01-15T05:40:05Z,18.67,https://github.com/topfunky,98,1537,Ruby
+27,anotherjesse,"Berkeley, CA",2008-01-15T07:49:30Z,18.67,https://github.com/anotherjesse,246,324,Python
+28,roland,Tirana,2008-01-15T08:12:51Z,18.67,https://github.com/roland,1,47,C#
+29,lukas,San Francisco,2008-01-15T12:50:02Z,18.67,https://github.com/lukas,61,737,Python
+30,fanvsfan,,2008-01-15T14:15:23Z,18.67,https://github.com/fanvsfan,0,45,
+31,tomtt,Amsterdam,2008-01-15T15:44:31Z,18.67,https://github.com/tomtt,91,92,Ruby
+32,railsjitsu,,2008-01-16T04:57:23Z,18.67,https://github.com/railsjitsu,0,37,
+34,nitay,New York,2008-01-18T14:09:11Z,18.66,https://github.com/nitay,12,69,Python
+35,kevwil,"Frederick, CO",2008-01-19T05:50:12Z,18.66,https://github.com/kevwil,47,84,Ruby
+36,KirinDave,"San Francisco, CA",2008-01-19T08:01:02Z,18.66,https://github.com/KirinDave,83,450,Clojure
+37,jamesgolick,New York,2008-01-19T22:52:30Z,18.66,https://github.com/jamesgolick,110,678,Ruby
+38,atmos,GMT +/- 8,2008-01-22T09:14:11Z,18.65,https://github.com/atmos,3,1416,CoffeeScript
+45,sethfitz,"Bend, OR",2008-01-24T04:40:22Z,18.64,https://github.com/sethfitz,339,659,JavaScript
+46,bmizerany,,2008-01-24T04:44:30Z,18.64,https://github.com/bmizerany,181,1546,Ruby
+47,jnewland,"Austin, TX",2008-01-25T02:28:12Z,18.64,https://github.com/jnewland,133,813,Ruby
+48,joshknowles,"Austin, TX",2008-01-25T21:30:42Z,18.64,https://github.com/joshknowles,14,157,Ruby
+49,hornbeck,"Lawton, OK",2008-01-25T21:49:23Z,18.64,https://github.com/hornbeck,8,107,Erlang
+50,jwhitmire,"Webster, NY",2008-01-25T22:07:48Z,18.64,https://github.com/jwhitmire,33,73,Ruby
+51,elbowdonkey,,2008-01-25T22:08:20Z,18.64,https://github.com/elbowdonkey,53,50,Ruby
+52,reinh,"Portland, OR",2008-01-25T22:16:29Z,18.64,https://github.com/reinh,208,224,Ruby
+53,knzai,"Oakland, CA",2008-01-25T22:33:10Z,18.64,https://github.com/knzai,43,93,Ruby
+68,bs,"San Fransico, CA",2008-01-27T01:46:29Z,18.64,https://github.com/bs,36,193,JavaScript
+69,rsanheim,"Madison, WI, NORTH AMERICA",2008-01-27T07:09:47Z,18.64,https://github.com/rsanheim,52,263,Ruby
+70,schacon,"Berlin, Germany",2008-01-27T17:19:28Z,18.64,https://github.com/schacon,241,14235,Ruby
+71,uggedal,"Oslo, Norway",2008-01-27T22:18:57Z,18.63,https://github.com/uggedal,47,215,Python
+72,bruce,"Vancouver, WA",2008-01-28T07:16:45Z,18.63,https://github.com/bruce,126,413,Ruby
+73,sam,"Dallas, TX",2008-01-28T19:01:26Z,18.63,https://github.com/sam,41,225,Scala
+74,mmower,"Berkshire, England",2008-01-28T19:47:50Z,18.63,https://github.com/mmower,85,90,Objective-C
+75,abhay,"San Francisco, CA",2008-01-28T21:08:23Z,18.63,https://github.com/abhay,50,206,Ruby
+76,rabble,"Pōneke, Aotearoa",2008-01-28T23:27:02Z,18.63,https://github.com/rabble,82,421,JavaScript
+77,benburkert,NYC,2008-01-28T23:44:14Z,18.63,https://github.com/benburkert,151,248,Ruby
+78,indirect,San Francisco,2008-01-29T07:59:27Z,18.63,https://github.com/indirect,274,1214,Ruby
+79,fearoffish,"Skipton, UK",2008-01-29T08:43:10Z,18.63,https://github.com/fearoffish,68,73,Ruby
+80,ry,California,2008-01-29T08:50:34Z,18.63,https://github.com/ry,63,33456,TypeScript
+81,engineyard,"San Francisco, CA",2008-01-29T09:51:30Z,18.63,https://github.com/engineyard,336,33,Ruby
+82,jsierles,"Andalucía, Spain",2008-01-29T11:10:25Z,18.63,https://github.com/jsierles,181,309,Ruby
+83,tweibley,Florida,2008-01-29T13:52:07Z,18.63,https://github.com/tweibley,20,67,Ruby
+84,peimei,"Palm Springs, CA",2008-01-29T15:44:11Z,18.63,https://github.com/peimei,5,29,Ruby
+85,brixen,"Portland, OR",2008-01-29T16:47:55Z,18.63,https://github.com/brixen,139,394,Ruby
+87,tmornini,San Francisco,2008-01-29T18:43:39Z,18.63,https://github.com/tmornini,17,69,Go
+88,outerim,"SLC, UT",2008-01-29T18:48:32Z,18.63,https://github.com/outerim,27,44,Ruby
+89,daksis,"San Francisco, CA, USA",2008-01-29T19:18:16Z,18.63,https://github.com/daksis,6,96,JavaScript
+90,sr,Europe,2008-01-29T20:37:53Z,18.63,https://github.com/sr,135,640,Ruby
+91,lifo,,2008-01-29T23:09:30Z,18.63,https://github.com/lifo,0,636,
+92,rsl,"Atlanta, GA",2008-01-29T23:13:36Z,18.63,https://github.com/rsl,41,88,Ruby
+93,imownbey,"San Francisco, CA",2008-01-29T23:13:44Z,18.63,https://github.com/imownbey,76,117,Ruby
+94,dylanegan,"Sydney, Australia",2008-01-29T23:15:18Z,18.63,https://github.com/dylanegan,55,142,Ruby
+95,jm,"Orlando, FL",2008-01-29T23:15:32Z,18.63,https://github.com/jm,137,555,Ruby
+100,kmarsh,"Perrysburg, OH",2008-01-29T23:48:24Z,18.63,https://github.com/kmarsh,62,92,Ruby
+101,jvantuyl,"Plumas County, California, USA",2008-01-30T01:11:50Z,18.63,https://github.com/jvantuyl,91,79,Elixir
+102,BrianTheCoder,"Santa Monica,CA",2008-01-30T02:22:32Z,18.63,https://github.com/BrianTheCoder,109,119,Ruby
+103,freeformz,"PDX Area, OR",2008-01-30T06:19:57Z,18.63,https://github.com/freeformz,175,259,Go
+104,hassox,Austin,2008-01-30T06:31:06Z,18.63,https://github.com/hassox,161,390,Ruby
+105,automatthew,,2008-01-30T19:00:58Z,18.63,https://github.com/automatthew,21,97,Ruby
+106,queso,"Cincinnati, Oh",2008-01-30T19:48:45Z,18.63,https://github.com/queso,95,375,JavaScript
+107,lancecarlson,"Ann Arbor, MI",2008-01-30T19:53:29Z,18.63,https://github.com/lancecarlson,142,160,Ruby
+108,drnic,"Brisbane, Australia",2008-01-30T23:19:18Z,18.63,https://github.com/drnic,694,1846,Ruby
+109,lukesutton,South Australia,2008-01-31T04:01:02Z,18.63,https://github.com/lukesutton,18,76,Swift
+110,danwrong,London,2008-01-31T08:51:31Z,18.63,https://github.com/danwrong,34,389,Ruby
+111,HamptonMakes,"New York, NY",2008-01-31T17:03:51Z,18.63,https://github.com/HamptonMakes,81,714,Ruby
+112,jfrost,,2008-01-31T22:14:27Z,18.62,https://github.com/jfrost,12,36,Go
+113,mattetti,"Los Angeles, CA",2008-01-31T22:56:31Z,18.62,https://github.com/mattetti,307,1132,Ruby
+114,ctennis,"Indiana, USA",2008-01-31T23:43:14Z,18.62,https://github.com/ctennis,10,45,HTML
+115,lawrencepit,,2008-01-31T23:57:16Z,18.62,https://github.com/lawrencepit,27,53,Ruby
+116,marcjeanson,Earth,2008-02-01T01:27:19Z,18.62,https://github.com/marcjeanson,31,68,Ruby
+117,grempe,"Virginia, US",2008-02-01T04:12:42Z,18.62,https://github.com/grempe,47,158,Ruby
+118,peterc,United Kingdom,2008-02-02T01:00:36Z,18.62,https://github.com/peterc,50,765,Ruby
+119,ministrycentered,"Carlsbad, CA",2008-02-02T03:50:26Z,18.62,https://github.com/ministrycentered,72,27,Ruby
+120,afarnham,"Houston, TX",2008-02-02T05:11:03Z,18.62,https://github.com/afarnham,48,57,Swift
+121,up_the_irons,Los Angeles,2008-02-02T10:59:51Z,18.62,https://github.com/up_the_irons,50,62,Ruby
+122,cristibalan,Everywhere,2008-02-02T11:29:45Z,18.62,https://github.com/cristibalan,24,123,Ruby
+123,heavysixer,Kansas City,2008-02-02T15:06:53Z,18.62,https://github.com/heavysixer,23,132,JavaScript
+124,brosner,"Denver, CO",2008-02-02T19:03:54Z,18.62,https://github.com/brosner,116,1042,Python
+125,danielmorrison,"Holland, MI",2008-02-02T19:46:35Z,18.62,https://github.com/danielmorrison,36,148,Ruby
+126,danielharan,"Montreal, QC, Canada",2008-02-02T21:42:21Z,18.62,https://github.com/danielharan,33,121,Ruby
+127,kvnsmth,,2008-02-02T22:00:03Z,18.62,https://github.com/kvnsmth,32,152,Objective-C
+128,collectiveidea,United States of America,2008-02-02T22:34:46Z,18.62,https://github.com/collectiveidea,184,90,Ruby
+129,canadaduane,"Salt Lake City, UT, USA",2008-02-02T23:25:39Z,18.62,https://github.com/canadaduane,263,240,JavaScript
+130,corasaurus-hex,"Milwaukee, WI",2008-02-03T04:20:22Z,18.62,https://github.com/corasaurus-hex,53,141,Ruby
+131,dstrelau,"Minneapolis, MN",2008-02-03T14:59:12Z,18.62,https://github.com/dstrelau,51,101,Ruby
+132,sunny,"Paris, France",2008-02-03T15:43:43Z,18.62,https://github.com/sunny,250,393,Ruby
+133,dkubb,"Agassiz, BC, Canada",2008-02-03T20:40:13Z,18.61,https://github.com/dkubb,55,582,Ruby
+134,jnicklas,"Gothenburg, Sweden",2008-02-03T20:43:50Z,18.61,https://github.com/jnicklas,151,884,Ruby
+135,richcollins,San Francisco,2008-02-03T21:11:25Z,18.61,https://github.com/richcollins,32,79,JavaScript
+136,simonjefford,"Oxford, UK",2008-02-03T21:35:34Z,18.61,https://github.com/simonjefford,90,48,Ruby
+1,mojombo,San Francisco,2007-10-20T05:24:19Z,18.91,https://github.com/mojombo,66,24812,Ruby
+2,defunkt,,2007-10-20T05:24:19Z,18.91,https://github.com/defunkt,107,22821,Ruby
+3,pjhyett,,2008-01-07T17:54:22Z,18.69,https://github.com/pjhyett,8,8443,Ruby
+4,wycats,"Portland, OR",2008-01-12T05:38:33Z,18.68,https://github.com/wycats,325,10343,Ruby
+5,ezmobius,In the NW,2008-01-12T07:51:46Z,18.68,https://github.com/ezmobius,22,629,Ruby
+6,ivey,"West Hartford, CT",2008-01-12T15:15:00Z,18.68,https://github.com/ivey,38,226,Ruby
+7,evanphx,"Los Angeles, CA",2008-01-12T16:46:24Z,18.68,https://github.com/evanphx,193,1777,Ruby
+17,vanpelt,San Francisco,2008-01-13T05:57:18Z,18.67,https://github.com/vanpelt,70,531,Ruby
+18,wayneeseguin,"Buffalo, NY",2008-01-13T06:02:21Z,18.67,https://github.com/wayneeseguin,116,812,Ruby
+19,brynary,New York City,2008-01-13T10:19:47Z,18.67,https://github.com/brynary,206,838,Ruby
+20,kevinclark,,2008-01-13T18:33:26Z,18.67,https://github.com/kevinclark,51,141,Python
+21,technoweenie,,2008-01-14T04:33:35Z,18.67,https://github.com/technoweenie,177,2763,Ruby
+22,macournoyer,"Montreal, QC, Canada",2008-01-14T10:49:35Z,18.67,https://github.com/macournoyer,77,1322,Ruby
+23,takeo,"Portland, OR",2008-01-14T11:25:49Z,18.67,https://github.com/takeo,22,130,JavaScript
+25,caged,Places,2008-01-15T04:47:24Z,18.67,https://github.com/caged,170,2421,JavaScript
+26,topfunky,"Seattle, USA",2008-01-15T05:40:05Z,18.67,https://github.com/topfunky,98,1537,Ruby
+27,anotherjesse,"Berkeley, CA",2008-01-15T07:49:30Z,18.67,https://github.com/anotherjesse,246,324,Python
+28,roland,Tirana,2008-01-15T08:12:51Z,18.67,https://github.com/roland,1,47,C#
+29,lukas,San Francisco,2008-01-15T12:50:02Z,18.67,https://github.com/lukas,61,737,Python
+30,fanvsfan,,2008-01-15T14:15:23Z,18.67,https://github.com/fanvsfan,0,45,
+31,tomtt,Amsterdam,2008-01-15T15:44:31Z,18.67,https://github.com/tomtt,91,92,Ruby
+32,railsjitsu,,2008-01-16T04:57:23Z,18.67,https://github.com/railsjitsu,0,37,
+34,nitay,New York,2008-01-18T14:09:11Z,18.66,https://github.com/nitay,12,69,Python
+35,kevwil,"Frederick, CO",2008-01-19T05:50:12Z,18.66,https://github.com/kevwil,47,84,Ruby
+36,KirinDave,"San Francisco, CA",2008-01-19T08:01:02Z,18.66,https://github.com/KirinDave,83,450,Clojure
+37,jamesgolick,New York,2008-01-19T22:52:30Z,18.66,https://github.com/jamesgolick,110,678,Ruby
+38,atmos,GMT +/- 8,2008-01-22T09:14:11Z,18.65,https://github.com/atmos,3,1416,CoffeeScript
+45,sethfitz,"Bend, OR",2008-01-24T04:40:22Z,18.64,https://github.com/sethfitz,339,659,JavaScript
+46,bmizerany,,2008-01-24T04:44:30Z,18.64,https://github.com/bmizerany,181,1546,Ruby
+47,jnewland,"Austin, TX",2008-01-25T02:28:12Z,18.64,https://github.com/jnewland,133,813,Ruby
+48,joshknowles,"Austin, TX",2008-01-25T21:30:42Z,18.64,https://github.com/joshknowles,14,157,Ruby
+49,hornbeck,"Lawton, OK",2008-01-25T21:49:23Z,18.64,https://github.com/hornbeck,8,107,Erlang
+50,jwhitmire,"Webster, NY",2008-01-25T22:07:48Z,18.64,https://github.com/jwhitmire,33,73,Ruby
+51,elbowdonkey,,2008-01-25T22:08:20Z,18.64,https://github.com/elbowdonkey,53,50,Ruby
+52,reinh,"Portland, OR",2008-01-25T22:16:29Z,18.64,https://github.com/reinh,208,224,Ruby
+53,knzai,"Oakland, CA",2008-01-25T22:33:10Z,18.64,https://github.com/knzai,43,93,Ruby
+68,bs,"San Fransico, CA",2008-01-27T01:46:29Z,18.64,https://github.com/bs,36,193,JavaScript
+69,rsanheim,"Madison, WI, NORTH AMERICA",2008-01-27T07:09:47Z,18.64,https://github.com/rsanheim,52,263,Ruby
+70,schacon,"Berlin, Germany",2008-01-27T17:19:28Z,18.64,https://github.com/schacon,241,14235,Ruby
+71,uggedal,"Oslo, Norway",2008-01-27T22:18:57Z,18.63,https://github.com/uggedal,47,215,Python
+72,bruce,"Vancouver, WA",2008-01-28T07:16:45Z,18.63,https://github.com/bruce,126,413,Ruby
+73,sam,"Dallas, TX",2008-01-28T19:01:26Z,18.63,https://github.com/sam,41,225,Scala
+74,mmower,"Berkshire, England",2008-01-28T19:47:50Z,18.63,https://github.com/mmower,85,90,Objective-C
+75,abhay,"San Francisco, CA",2008-01-28T21:08:23Z,18.63,https://github.com/abhay,50,206,Ruby
+76,rabble,"Pōneke, Aotearoa",2008-01-28T23:27:02Z,18.63,https://github.com/rabble,82,421,JavaScript
+77,benburkert,NYC,2008-01-28T23:44:14Z,18.63,https://github.com/benburkert,151,248,Ruby
+78,indirect,San Francisco,2008-01-29T07:59:27Z,18.63,https://github.com/indirect,274,1214,Ruby
+79,fearoffish,"Skipton, UK",2008-01-29T08:43:10Z,18.63,https://github.com/fearoffish,68,73,Ruby
+80,ry,California,2008-01-29T08:50:34Z,18.63,https://github.com/ry,63,33457,TypeScript
+81,engineyard,"San Francisco, CA",2008-01-29T09:51:30Z,18.63,https://github.com/engineyard,336,33,Ruby
+82,jsierles,"Andalucía, Spain",2008-01-29T11:10:25Z,18.63,https://github.com/jsierles,181,309,Ruby
+83,tweibley,Florida,2008-01-29T13:52:07Z,18.63,https://github.com/tweibley,20,67,Ruby
+84,peimei,"Palm Springs, CA",2008-01-29T15:44:11Z,18.63,https://github.com/peimei,5,29,Ruby
+85,brixen,"Portland, OR",2008-01-29T16:47:55Z,18.63,https://github.com/brixen,139,394,Ruby
+87,tmornini,San Francisco,2008-01-29T18:43:39Z,18.63,https://github.com/tmornini,17,69,Go
+88,outerim,"SLC, UT",2008-01-29T18:48:32Z,18.63,https://github.com/outerim,27,44,Ruby
+89,daksis,"San Francisco, CA, USA",2008-01-29T19:18:16Z,18.63,https://github.com/daksis,6,96,JavaScript
+90,sr,Europe,2008-01-29T20:37:53Z,18.63,https://github.com/sr,135,640,Ruby
+91,lifo,,2008-01-29T23:09:30Z,18.63,https://github.com/lifo,0,636,
+92,rsl,"Atlanta, GA",2008-01-29T23:13:36Z,18.63,https://github.com/rsl,41,88,Ruby
+93,imownbey,"San Francisco, CA",2008-01-29T23:13:44Z,18.63,https://github.com/imownbey,76,117,Ruby
+94,dylanegan,"Sydney, Australia",2008-01-29T23:15:18Z,18.63,https://github.com/dylanegan,55,142,Ruby
+95,jm,"Orlando, FL",2008-01-29T23:15:32Z,18.63,https://github.com/jm,137,555,Ruby
+100,kmarsh,"Perrysburg, OH",2008-01-29T23:48:24Z,18.63,https://github.com/kmarsh,62,92,Ruby
+101,jvantuyl,"Plumas County, California, USA",2008-01-30T01:11:50Z,18.63,https://github.com/jvantuyl,91,79,Elixir
+102,BrianTheCoder,"Santa Monica,CA",2008-01-30T02:22:32Z,18.63,https://github.com/BrianTheCoder,109,119,Ruby
+103,freeformz,"PDX Area, OR",2008-01-30T06:19:57Z,18.63,https://github.com/freeformz,175,259,Go
+104,hassox,Austin,2008-01-30T06:31:06Z,18.63,https://github.com/hassox,161,390,Ruby
+105,automatthew,,2008-01-30T19:00:58Z,18.63,https://github.com/automatthew,21,97,Ruby
+106,queso,"Cincinnati, Oh",2008-01-30T19:48:45Z,18.63,https://github.com/queso,95,375,JavaScript
+107,lancecarlson,"Ann Arbor, MI",2008-01-30T19:53:29Z,18.63,https://github.com/lancecarlson,142,160,Ruby
+108,drnic,"Brisbane, Australia",2008-01-30T23:19:18Z,18.63,https://github.com/drnic,694,1846,Ruby
+109,lukesutton,South Australia,2008-01-31T04:01:02Z,18.63,https://github.com/lukesutton,18,76,Swift
+110,danwrong,London,2008-01-31T08:51:31Z,18.63,https://github.com/danwrong,34,389,Ruby
+111,HamptonMakes,"New York, NY",2008-01-31T17:03:51Z,18.63,https://github.com/HamptonMakes,81,714,Ruby
+112,jfrost,,2008-01-31T22:14:27Z,18.62,https://github.com/jfrost,12,36,Go
+113,mattetti,"Los Angeles, CA",2008-01-31T22:56:31Z,18.62,https://github.com/mattetti,307,1132,Ruby
+114,ctennis,"Indiana, USA",2008-01-31T23:43:14Z,18.62,https://github.com/ctennis,10,45,HTML
+115,lawrencepit,,2008-01-31T23:57:16Z,18.62,https://github.com/lawrencepit,27,53,Ruby
+116,marcjeanson,Earth,2008-02-01T01:27:19Z,18.62,https://github.com/marcjeanson,31,68,Ruby
+117,grempe,"Virginia, US",2008-02-01T04:12:42Z,18.62,https://github.com/grempe,47,158,Ruby
+118,peterc,United Kingdom,2008-02-02T01:00:36Z,18.62,https://github.com/peterc,50,765,Ruby
+119,ministrycentered,"Carlsbad, CA",2008-02-02T03:50:26Z,18.62,https://github.com/ministrycentered,72,27,Ruby
+120,afarnham,"Houston, TX",2008-02-02T05:11:03Z,18.62,https://github.com/afarnham,48,57,Swift
+121,up_the_irons,Los Angeles,2008-02-02T10:59:51Z,18.62,https://github.com/up_the_irons,50,62,Ruby
+122,cristibalan,Everywhere,2008-02-02T11:29:45Z,18.62,https://github.com/cristibalan,24,123,Ruby
+123,heavysixer,Kansas City,2008-02-02T15:06:53Z,18.62,https://github.com/heavysixer,23,132,JavaScript
+124,brosner,"Denver, CO",2008-02-02T19:03:54Z,18.62,https://github.com/brosner,116,1042,Python
+125,danielmorrison,"Holland, MI",2008-02-02T19:46:35Z,18.62,https://github.com/danielmorrison,36,148,Ruby
+126,danielharan,"Montreal, QC, Canada",2008-02-02T21:42:21Z,18.62,https://github.com/danielharan,33,121,Ruby
+127,kvnsmth,,2008-02-02T22:00:03Z,18.62,https://github.com/kvnsmth,32,152,Objective-C
+128,collectiveidea,United States of America,2008-02-02T22:34:46Z,18.62,https://github.com/collectiveidea,184,90,Ruby
+129,canadaduane,"Salt Lake City, UT, USA",2008-02-02T23:25:39Z,18.62,https://github.com/canadaduane,263,240,JavaScript
+130,corasaurus-hex,"Milwaukee, WI",2008-02-03T04:20:22Z,18.62,https://github.com/corasaurus-hex,53,141,Ruby
+131,dstrelau,"Minneapolis, MN",2008-02-03T14:59:12Z,18.62,https://github.com/dstrelau,51,101,Ruby
+132,sunny,"Paris, France",2008-02-03T15:43:43Z,18.62,https://github.com/sunny,250,393,Ruby
+133,dkubb,"Agassiz, BC, Canada",2008-02-03T20:40:13Z,18.61,https://github.com/dkubb,55,582,Ruby
+134,jnicklas,"Gothenburg, Sweden",2008-02-03T20:43:50Z,18.61,https://github.com/jnicklas,151,884,Ruby
+135,richcollins,San Francisco,2008-02-03T21:11:25Z,18.61,https://github.com/richcollins,32,79,JavaScript
+136,simonjefford,"Oxford, UK",2008-02-03T21:35:34Z,18.61,https://github.com/simonjefford,90,48,Ruby
